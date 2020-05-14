@@ -11,4 +11,4 @@ PS1='[\u@\h \W]\$ '
 #Neofetch käynnistyy joka kerta kun bash käynnistyy
 neofetch
 
-export PATH="$PATH:$HOME/bin"
+export PATH="$PATH:$HOME/bin" #Exporttaa pathin ~/bin bash scriptejä varten
