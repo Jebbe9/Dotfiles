@@ -9,6 +9,6 @@ alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
 #Neofetch käynnistyy joka kerta kun bash käynnistyy
-neofetch
+#neofetch
 
 export PATH="$PATH:$HOME/bin" #Exporttaa pathin ~/bin bash scriptejä varten
