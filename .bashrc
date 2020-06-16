@@ -22,4 +22,4 @@ alias rm="rm -I"
 PS1="[\u@\h \W]\$ "
 
 #Export
-export PATH="$PATH:$HOME/bin" #Exporttaa pathin ~/bin bash scriptejä varten
+export PATH="$PATH:$HOME/Doc/bin"
