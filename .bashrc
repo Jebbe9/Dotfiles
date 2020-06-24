@@ -16,10 +16,24 @@ alias gits="git status"
 alias gita="git add"
 alias gitc="git commit"
 
+#Ranger
+alias r="ranger"
+
+#Htop
+alias h="htop"
+
+alias c="tty-clock -c -s"
+
 #Rm
 alias rm="rm -I"
 
-PS1="[\u@\h \W]\$ "
+#vi mode
+set -o vi
 
-#Export
+#Sxiv
+alias sxiv="sxiv -b"
+
+#bin path
 export PATH="$PATH:$HOME/Doc/bin"
+
+PS1="[\u@\h \W]\$ "
