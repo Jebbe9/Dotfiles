@@ -12,4 +12,9 @@ fi
 #bin path
 export PATH="$PATH:$HOME/Doc/bin"
 
+pfetch
+
+set -o vi
+
 PS1="[\u@\h \W]\$ "
+

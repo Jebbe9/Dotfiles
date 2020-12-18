@@ -42,7 +42,7 @@ fi
 export GNUPGHOME="$XDG_DATA_HOME"/gnupg &
 export LESSHISTFILE=- &
 
-feh --bg-scale $HOME/Pic/Wallpapers/Landscapes/1491175371818.jpg
+feh --bg-scale $HOME/Pic/Wallpapers/Landscapes/alien_yellow.png
 picom -b --no-fading-openclose & 
 xsetroot -cursor_name left_ptr &
 setxkbmap -option caps:escape &
