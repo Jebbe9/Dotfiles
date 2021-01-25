@@ -10,7 +10,8 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 #bin path
-export PATH="$PATH:$HOME/Doc/bin"
+export PATH="$PATH:$HOME/.local/bin"
+export PATH="$PATH:$HOME/.local/bin/muu"
 
 pfetch
 

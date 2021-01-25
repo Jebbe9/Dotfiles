@@ -2,7 +2,6 @@
 
 pfetch
 
-
 #Ls 
 abbr ls 'ls --group-directories-first'
 abbr la 'ls -A'
@@ -26,6 +25,9 @@ abbr c 'tty-clock -c -s'
 #Rm
 abbr rm 'rm -i'
 
+#slstatus
+abbr slr 'killall slstatus && slstatus &'
+
 #Mv
 abbr mv 'mv -v'
 
@@ -45,9 +47,11 @@ abbr cfb 'nvim ~/.bashrc'
 abbr cfv 'nvim ~/.nvimrc'
 abbr cfba 'nvim ~/.bash_aliases'
 abbr cfx 'nvim ~/.xinitrc'
+abbr cfh 'nvim /etc/hosts'
+abbr cfp 'nvim ~/.config/picom/picom.conf'
 
 #Paikasta toiseen
-abbr pwp 'cd ~/Pic/Wallpapers'
+abbr pwp 'cd ~/Pic/Wallpapers && ls'
 abbr ph 'cd ~/Pic/Hauska'
 abbr pm 'cd ~/Pic/Motivational' 
 abbr pt 'cd ~/Pic/Tech'
