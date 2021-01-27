@@ -19,14 +19,8 @@ alias r='ranger'
 #Htop
 alias h='htop'
 
-#Tty-Clock
-alias c='tty-clock -c -s'
-
 #Rm
 alias rm='rm -i'
 
 #Sxiv
 alias sxiv='sxiv -b'
-
-#Pacman
-alias logpa='grep "pacman -Syu" /var/log/pacman.log'
