@@ -13,6 +13,9 @@
             <item label="File Manager"> <action name="Execute">
 		<execute>st -e ranger</execute>
             </action> </item>
+            <item label="Music Player"> <action name="Execute">
+		<execute>st -f "Iosevka-18" -e mocp</execute>
+            </action> </item>
             <item label="Task Manager"> <action name="Execute">
 		<execute>st -g 180x40 -f "Iosevka-13" -e htop</execute>
             </action> </item>
@@ -48,10 +51,6 @@
     </menu>
             </menu>
     </menu>
-    <separator/>
-    <item label="Sys-Update"> <action name="Execute">
-		    <execute>st -e sudo xbps-install -Su</execute
-    </action </item>
         <separator/>
 	<item label="Shutdown"> <action name="Execute">
 	    <execute>st -g 30x3 -f "Iosevka-14" -e sudo poweroff</execute>
