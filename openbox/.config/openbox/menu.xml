@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openbox_menu>
-    <menu id="root-menu" label="OpenBox 3">
-        <menu id="2" label="Editors">
-            <item label="Neovim"> <action name="Execute">
-                <execute>st -e nvim</execute>
+    <menu id="root-menu" label="OpenBox 3"> 
+	    <item label="Terminal"> <action name="Execute">
+		<execute>st</execute>
             </action> </item>
-            <item label="Vim"> <action name="Execute">
-                <execute>st -e vim</execute>
+	    <item label="Web browser"> <action name="Execute">
+		<execute>firefox</execute>
             </action> </item>
-        </menu>
-        <menu id="18" label="Games">
+            <item label="Text Editor"> <action name="Execute">
+		<execute>st -e nvim</execute>
+            </action> </item>
+            <item label="File Manager"> <action name="Execute">
+		<execute>st -e ranger</execute>
+            </action> </item>
+            <item label="Task Manager"> <action name="Execute">
+		<execute>st -g 180x40 -f "Iosevka-13" -e htop</execute>
+            </action> </item>
+            <item label="Calculator"> <action name="Execute">
+	        <execute>st -g 50x20 -e bc</execute>
+            </action> </item>
+	    <separator />
+	    <item label="Steam"> <action name="Execute">
+		<execute>steam</execute>
+</action> </item>
+     <menu id="18" label="Games">
             <item label="Fallout: New Vegas"> <action name="Execute">
                 <execute>steam steam://rungameid/22380</execute>
             </action> </item>
@@ -17,75 +31,35 @@
                 <execute>steam steam://rungameid/389730</execute>
             </action> </item>
         </menu>
-        <menu id="7" label="Multimedia">
-            <item label="Amixer"> <action name="Execute">
-                <execute>st -e alsamixer</execute>
-            </action> </item>
-            <item label="Mpv"> <action name="Execute">
-                <execute>mpv --player-operation-mode=pseudo-gui</execute>
-            </action> </item>
-            <item label="Pavucontrol"> <action name="Execute">
-                <execute>pavucontrol</execute>
-            </action> </item>
-        </menu>
-        <menu id="5" label="Network">
-            <item label="Firefox"> <action name="Execute">
-                <execute>firefox</execute>
-            </action> </item>
-            <item label="Steam"> <action name="Execute">
-                <execute>steam</execute>
-            </action> </item>
-        </menu>
-        <menu id="4" label="Utility">
-            <item label="bc"> <action name="Execute">
-                <execute>st -e bc</execute>
-            </action> </item>
-            <item label="Ranger"> <action name="Execute">
-                <execute>st -e ranger</execute>
-            </action> </item>
-            <item label="xev"> <action name="Execute">
-                <execute>st -e xev</execute>
-            </action> </item>
-        </menu>
-        <menu id="19" label="Terminal">
-            <item label="st"> <action name="Execute">
-                <execute>st</execute>
-            </action> </item>
-        </menu>
-        <menu id="37" label="System">
-            <menu id="36" label="Settings">
+	<separator />
+        <menu id="37" label="Settings">
                 <item label="nvidia-settings"> <action name="Execute">
                     <execute>nvidia-settings</execute>
                 </action> </item>
-            </menu>
-            <item label="Htop"> <action name="Execute">
-                <execute>st -e htop</execute>
-            </action> </item>
-            <item label="Tint2"> <action name="Execute">
-                <execute>tint2</execute>
-            </action> </item>
-        </menu>
-        <separator/>
         <menu id="40" label="Openbox">
             <menu id="client-list-menu"/>
 	    <menu id="41" label="Customization"> 
-                <item label="lxappearance"> <action name="Execute">
-                    <execute>lxappearance</execute>
-                </action> </item>
                 <item label="obconf"> <action name="Execute">
                     <execute>obconf</execute>
                 </action> </item>
-	</menu>
-            <item label="Reconfigure"> <action name="Reconfigure"/> </item>
-            <separator/>
-            <item label="Exit"> <action name="Exit"/> </item>
-        </menu>
-	<separator/>
+                <item label="tint2conf"> <action name="Execute">
+                    <execute>tint2conf</execute>
+                </action> </item>
+    </menu>
+            </menu>
+    </menu>
+    <separator/>
+    <item label="Sys-Update"> <action name="Execute">
+		    <execute>st -e sudo xbps-install -Su</execute
+    </action </item>
+        <separator/>
 	<item label="Shutdown"> <action name="Execute">
 	    <execute>st -g 30x3 -f "Iosevka-14" -e sudo poweroff</execute>
 	</action> </item>
 	<item label="Reboot"> <action name="Execute">
 	    <execute>st -g 30x3 -f "Iosevka-14" -e sudo reboot</execute>
 	</action> </item>
-    </menu>
+	<item label="Kill X"> <action name="Execute">
+	    <execute>pkill openbox</execute>
+	</action> </item>
 </openbox_menu>

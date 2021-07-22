@@ -20,7 +20,7 @@ toggle_hidden_files   = H
 next_search           = ^g ^n
 show_lyrics           = L
 theme_menu            = T
-help                  = h ?
+help                  = ?
 refresh               = ^r
 reload                = r
 
