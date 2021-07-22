@@ -13,8 +13,6 @@ fi
 export PATH="$PATH:$HOME/.local/bin"
 export PATH="$PATH:$HOME/.local/bin/muu"
 
-pfetch
-
 set -o vi
 
 PS1="[\u@\h \W]\$ "

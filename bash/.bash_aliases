@@ -24,3 +24,11 @@ alias rm='rm -i'
 
 #Sxiv
 alias sxiv='sxiv -b'
+
+#Xbps
+alias xins='xbps-install'
+alias xrem='xbps-remove'
+alias xque='xbps-query'
+
+#Sudo
+alias sudo='sudo '

@@ -1,0 +1,4 @@
+feh --bg-scale /home/jere/Pic/taustak/minimalist-spacex-dragon-wallpaper-2-1920x1080.jpg &
+tint2 &
+picom &
+
