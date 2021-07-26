@@ -32,3 +32,6 @@ alias xque='xbps-query'
 
 #Sudo
 alias sudo='sudo '
+
+#Youtube-dl
+alias youaudio='youtube-dl -x --extract-audio'

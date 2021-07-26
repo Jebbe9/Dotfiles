@@ -22,22 +22,13 @@
             <item label="Calculator"> <action name="Execute">
 	        <execute>st -g 50x20 -e bc</execute>
             </action> </item>
-	    <separator />
-	    <item label="Steam"> <action name="Execute">
-		<execute>steam</execute>
-</action> </item>
-     <menu id="18" label="Games">
-            <item label="Fallout: New Vegas"> <action name="Execute">
-                <execute>steam steam://rungameid/22380</execute>
-            </action> </item>
-            <item label="TEKKEN 7"> <action name="Execute">
-                <execute>steam steam://rungameid/389730</execute>
-            </action> </item>
-        </menu>
-	<separator />
+	<separator/>
         <menu id="37" label="Settings">
-                <item label="nvidia-settings"> <action name="Execute">
+                <item label="Nvidia-Settings"> <action name="Execute">
                     <execute>nvidia-settings</execute>
+                </action> </item>
+		<item label="Pavucontrol"> <action name="Execute">
+		    <execute>pavucontrol</execute>
                 </action> </item>
         <menu id="40" label="Openbox">
             <menu id="client-list-menu"/>
