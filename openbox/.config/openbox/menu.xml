@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openbox_menu>
     <menu id="root-menu" label="OpenBox 3"> 
+	    <separator/>
 	    <item label="Terminal"> <action name="Execute">
 		<execute>st</execute>
             </action> </item>
 	    <item label="Web browser"> <action name="Execute">
 		<execute>firefox</execute>
             </action> </item>
+	    <separator/>
+	    <item label="Steam"> <action name="Execute">
+		<execute>steam</execute>
+            </action> </item>
+	    <item label="Lutris"> <action name="Execute">
+		<execute>lutris</execute>
+            </action> </item>
+	    <separator/>
             <item label="Text Editor"> <action name="Execute">
 		<execute>st -e nvim</execute>
             </action> </item>
@@ -52,4 +61,5 @@
 	<item label="Kill X"> <action name="Execute">
 	    <execute>pkill openbox</execute>
 	</action> </item>
+	<separator/>
 </openbox_menu>

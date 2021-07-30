@@ -29,6 +29,7 @@ alias sxiv='sxiv -b'
 alias xins='xbps-install'
 alias xrem='xbps-remove'
 alias xque='xbps-query'
+alias xroskat='sudo rm -rf /var/cache/xbps/*'
 
 #Sudo
 alias sudo='sudo '
