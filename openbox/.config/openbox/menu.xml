@@ -20,7 +20,10 @@
 		<execute>st -e nvim</execute>
             </action> </item>
             <item label="File Manager"> <action name="Execute">
-		<execute>st -e ranger</execute>
+		<execute>Thunar</execute>
+            </action> </item> 
+            <item label="Qbittorrent"> <action name="Execute">
+		<execute>qbittorrent</execute>
             </action> </item>
             <item label="Music Player"> <action name="Execute">
 		<execute>st -f "Iosevka-18" -e mocp</execute>
