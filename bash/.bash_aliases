@@ -36,3 +36,6 @@ alias sudo='sudo '
 
 #Youtube-dl
 alias youaudio='youtube-dl -x --extract-audio'
+
+#Dwm
+alias compiletappo='sudo make install && killall dwm && sleep 2s && startx'
