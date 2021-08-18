@@ -1,5 +1,5 @@
 MusicDir = /home/jere/Music
 StartInMusicDir = Yes
-Theme = black_theme
+Theme = black_red_white
 Keymap = keymap
 ALSADevice = default
