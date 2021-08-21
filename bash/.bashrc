@@ -11,7 +11,7 @@ fi
 
 #bin path
 export PATH="$PATH:$HOME/.local/bin"
-export PATH="$PATH:$HOME/.local/bin/muu"
+export PATH="$PATH:$HOME/.local/bin/statusbar"
 
 set -o vi
 
