@@ -1,5 +1,8 @@
 MusicDir = /home/jere/Music
 StartInMusicDir = Yes
-Theme = black_red_white
+Theme = darkdot_theme
 Keymap = keymap
-ALSADevice = default
+Layout1 = directory(0,0,100%,100%)
+HideFileExtension = yes
+FollowPlayedFile = yes
+CanStartInPlaylist = yes
