@@ -22,6 +22,10 @@ alias h='htop'
 #Rm
 alias rm='rm -i'
 
+#Mv ja cp
+alias mv='mv -v'
+alias cp='cp -v'
+
 #Sxiv
 alias sxiv='sxiv -b'
 
