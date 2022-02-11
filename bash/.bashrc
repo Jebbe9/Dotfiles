@@ -21,4 +21,8 @@ set -o vi
 #Uus bash prompt
 PS1=" \[\033[1;96m\]\w \[\033[36m\]\[\033[1;37m\]>\[\033[0;37m\] "
 
-neofetch
+#Mpd host
+MPD_HOST="/home/jere/.config/mpd/socket"
+
+#Svdir
+SVDIR="/home/jere/.config/services"
