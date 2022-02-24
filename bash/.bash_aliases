@@ -29,14 +29,11 @@ alias cp='cp -v'
 #Sxiv
 alias sxiv='sxiv -b'
 
-#Xbps
-alias xins='xbps-install'
-alias xrem='xbps-remove'
-alias xque='xbps-query'
-alias xroskat='sudo rm -rf /var/cache/xbps/*'
-
 #Sudo
 alias sudo='sudo '
 
 #Youtube-dl
 alias youaudio='youtube-dl -x --extract-audio'
+
+#viini
+alias viini='WINEPREFIX=/home/jere/Documents/Torkku/Viini'

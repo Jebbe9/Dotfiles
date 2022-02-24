@@ -1,0 +1,37 @@
+clear
+pl-create kk
+pl-create Bullet For My Valentine
+pl-create Bill Evans
+pl-create Babymetal
+add -p ~/Music/Rock/Billy Talent/
+pl-create Billy Talent
+pl-create "Billy Talent"
+pl-rename
+pl-delete "City Pop"
+bind -f common b player-prev
+bind -f common n player-next
+colorscheme gruvbox
+colorscheme amazon
+colorscheme gray-88
+colorscheme dracula
+colorscheme cyan
+bind -f browser i toggle show_hidden
+bind -f common l win-activate
+bind -f browser l win-activate
+bind -f common R refresh
+live-filter 
+bind -f common right seek +5
+bind common ^T colorscheme
+bind common F1 help
+bind -f common p player-pause
+bind -f common , vol -10%
+bind -f common . vol +10%
+q
+q!
+bind -f common l player-play
+bind -f common space player-pause
+set color_win_bg=default
+set color_win_bg=black
+del
+bind -f common vol +10%
+add ~/Music/
