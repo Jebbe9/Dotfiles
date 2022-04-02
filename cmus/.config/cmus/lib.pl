@@ -39,7 +39,11 @@
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Ascension (feat. Ayane) -off vocal-.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Ascension -Ayane vocal Iri Karaoke- (feat. Ayane).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Ascension -Kanako Ito vocal Iri Karaoke- (feat. Ayane).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/06 - Carousel.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako feat. Asturias - Bird Eyes View.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2005 - Linkin Park - Jay-Z Mix/01 - One Step Closer & 99 Problems & 1Stp Klosr (Explict).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2005 - Linkin Park - Jay-Z Mix/02 - One Step Closer & 99 Problems & 1Stp Klosr (Censored).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/01 - Hybrid Theory Era/PLACE 4 MY HEAD [ORIGINAL RMX].mp3
 /home/jere/Music/Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/01. Doki Doki ☆ Morning.mp3
 /home/jere/Music/Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Headbangeeeeerrrrr!!!!!.mp3
 /home/jere/Music/Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/03. Ijime, Dame, Zettai.mp3
@@ -50,6 +54,7 @@
 /home/jere/Music/Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/08. THE ONE.mp3
 /home/jere/Music/Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/09. Distortion.mp3
 /home/jere/Music/Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/10. PA PA YA!!.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/12 - Change [LPU Sessions 2013].mp3
 /home/jere/Music/Jazz/Bill Evans - The Best of Bill Evans (2020) Mp3 320kbps [PMEDIA] ??/1 - Autumn Leaves.mp3
 /home/jere/Music/Jazz/Bill Evans - The Best of Bill Evans (2020) Mp3 320kbps [PMEDIA] ??/2 - Conception.mp3
 /home/jere/Music/Jazz/Bill Evans - The Best of Bill Evans (2020) Mp3 320kbps [PMEDIA] ??/3 - Easy Living.mp3
@@ -392,6 +397,14 @@
 /home/jere/Music/Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/19. A Place Where You Belong.mp3
 /home/jere/Music/Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/20. No Way Out.mp3
 /home/jere/Music/Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/21. Leap Of Faith.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/19 - We Made It (feat. Busta Rhymes) (2008)/Single CD/03 - We Made It (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/19 - We Made It (feat. Busta Rhymes) (2008)/Single CD/01 - We Made It (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/19 - We Made It (feat. Busta Rhymes) (2008)/Single CD/02 - We Made It (A capella).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/19 - We Made It (feat. Busta Rhymes) (2008)/Promo CDS/01 - We Made It (Clean).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/19 - We Made It (feat. Busta Rhymes) (2008)/Promo CDS/02 - We Made It (Dirty).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/19 - We Made It (feat. Busta Rhymes) (2008)/Promo CDS/03 - We Made It (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - DJ Focus - Projekt Revolution Breaks/Side A.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - DJ Focus - Projekt Revolution Breaks/Side B.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Tataeshi Tatakai no Shi (Dj Sadoi Remix -La Mezcla Jazzistica-).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Denshou no Shi -Verum- (Dj Sadoi Remix del Jazz Tropical).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - When The End (El Alma de Caribean Dj Sadoi Remix).mp3
@@ -1375,6 +1388,47 @@
 /home/jere/Music/Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Compilations/[2003] 岩崎宏美 GOLDEN☆BEST II/16 - この広い空の下.mp3
 /home/jere/Music/Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Compilations/[2003] 岩崎宏美 GOLDEN☆BEST II/17 - 私たち.mp3
 /home/jere/Music/Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Compilations/[2003] 岩崎宏美 GOLDEN☆BEST II/18 - 月見草.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory 6-Track Internal Demo CD/01 - Plaster.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory 6-Track Internal Demo CD/02 - Papercut.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory 6-Track Internal Demo CD/03 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory 6-Track Internal Demo CD/04 - Points Of Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory 6-Track Internal Demo CD/05 - Dust Brothers.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory 6-Track Internal Demo CD/06 - Untitled.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory (2-Track Demo)/01 - A Place For My Head (Esaul).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory (2-Track Demo)/02 - By Myself.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/01 - Untitled.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/02 - SuperXero.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/03 - Points and Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/04 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/05 - She Couldn't.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/07 - Part of Me.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1999 - Hybrid Theory 8-track Demo CD/08 - And One.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - 7-track Demo CD/01 - Untitled.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - 7-track Demo CD/02 - SuperXero.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - 7-track Demo CD/03 - Points & Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - 7-track Demo CD/04 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - 7-track Demo CD/05 - Carousel.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - 7-track Demo CD/06 - Part Of Me.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - 7-track Demo CD/07 - And One.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/01 - Untitled.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/02 - Points & Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/03 - Super Zero.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/04 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/05 - Carousel.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/06 - Part Of Me.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/07 - And One.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/08 - Rhinestone.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory Demos/09 - Esaul.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Hybrid Theory - By Myself.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Hybrid Theory - Now I See.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (band) Website Demos/01 - Esaul.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (band) Website Demos/02 - By Myself.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2001 - Underground 1.0/01 - Carousel.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2001 - Underground 1.0/02 - Technique (Short Version).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2001 - Underground 1.0/03 - Step Up.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2001 - Underground 1.0/04 - And One.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2001 - Underground 1.0/05 - High Voltage.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2001 - Underground 1.0/06 - Part Of Me.mp3
 /home/jere/Music/Jcitypop/Indigo La End/Albums & EPs/(2012.04.11) Sayonara, Subarashi Sekai/01-緑の少女.mp3
 /home/jere/Music/Jcitypop/Indigo La End/Albums & EPs/(2012.04.11) Sayonara, Subarashi Sekai/02-秘密の金魚.mp3
 /home/jere/Music/Jcitypop/Indigo La End/Albums & EPs/(2012.04.11) Sayonara, Subarashi Sekai/03-夢で逢えたら.mp3
@@ -1926,6 +1980,12 @@
 /home/jere/Music/Jcitypop/Itou_Kanako/2014.04.30 - Brave the Sky [Itou Kanako x Zwei] (Single) 320kbps/04 - Brave the Sky (off Vocal).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Sky Clad no Kansokusha (Yuuyu Remix).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Uchuu Engineer (Yuuyu Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/13 - Numb Encore (2004)/Numb Encore (Maxi-Single)/01 - Numb-Encore (Explicit Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/13 - Numb Encore (2004)/Numb Encore (Maxi-Single)/02 - Numb-Encore (Amended Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/13 - Numb Encore (2004)/Numb Encore (Maxi-Single)/03 - Numb-Encore (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/13 - Numb Encore (2004)/Numb Encore (Maxi-Single)/04 - Numb-Encore (A Cappella Explicit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/13 - Numb Encore (2004)/Numb Encore (Maxi-Single)/05 - Numb-Encore (A Cappella Amended).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/13 - Numb Encore (2004)/Numb Encore (Maxi-Single)/06 - Bonus Beat.mp3
 /home/jere/Music/JRock/KANA-BOON - Discography/Albums/[2013.10.30] - DOPPEL (320 kbps)/01 1.2. step to you.mp3
 /home/jere/Music/JRock/KANA-BOON - Discography/Albums/[2013.10.30] - DOPPEL (320 kbps)/02 World.mp3
 /home/jere/Music/JRock/KANA-BOON - Discography/Albums/[2013.10.30] - DOPPEL (320 kbps)/03 Wally Hero.mp3
@@ -2031,6 +2091,803 @@
 /home/jere/Music/Jcitypop/Itou_Kanako/2013.05.29 - Rakuen no Hologram (Single) 320kbps/02 - Okitetsu Shiratsuyu.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/2013.05.29 - Rakuen no Hologram (Single) 320kbps/03 - Rakuen no Hologram (Off Vocal).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/2013.05.29 - Rakuen no Hologram (Single) 320kbps/04 - Okitetsu Shiratsuyu (Off Vocal).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1998 - Xero's tracks from Rapology/Rapology 13/Kenji & Artofficial (of Xero) - Drop.mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Robot Boy (Remix by Street Drum Corps).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Waiting For The End (Remix by KickDrums).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Wretches & Kings (Remix by HavocNdeeD).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Wretches & Kings (Remix by HavocNdeeD vs. Chuck D of Public Enemy).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/23 - Burning In The Skies (2011)/Digital Single (from music.ovi.com)/01. Burning In The Skies.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/23 - Burning In The Skies (2011)/Digital Single (from music.ovi.com)/02. Blackout (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/23 - Burning In The Skies (2011)/Digital Single (from music.ovi.com)/03. When They Come For Me (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/31 - Final Masquerade/Acoustic/01 - Final Masquerade (Acoustic).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/01 - Hybrid Theory Era/PTS.OF.ATHRTY (Demo) (Remix by Jay Gordon).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/03 - BURN IT DOWN (Swoon Mix).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/01 - Don't Stay (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/02 - Somewhere I Belong (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/03 - Lying From You (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/04 - Hit The Floor (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/05 - Easier To Run (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/06 - Faint (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/07 - Figure.09 (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/08 - Breaking The Habit (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/09 - From The Inside (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/10 - Nobody's Listening (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/11 - Session (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2003 - Meteora Instrumentals/12 - Numb (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/1999 - Hybrid Theory EP/01 - Carousel.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/1999 - Hybrid Theory EP/02 - Technique (Short Version).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/1999 - Hybrid Theory EP/03 - Step Up.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/1999 - Hybrid Theory EP/04 - And One.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/1999 - Hybrid Theory EP/05 - High Voltage.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/1999 - Hybrid Theory EP/06 - Part of Me.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/01 - Papercut.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/02 - One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/03 - With You.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/04 - Points of Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/05 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/06 - Runaway.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/07 - By Myself.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/08 - In the End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/09 - A Place for My Head.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/10 - Forgotten.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/11 - Cure for the Itch.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/12 - Pushing Me Away.mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/01 - Papercut (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/02 - One Step Closer (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/03 - With You (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/04 - Points Of Authority (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/05 - Crawling (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/06 - Runaway (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/07 - By Myself (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/08 - In The End (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/09 - A Place for My Head (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/10 - Forgotten (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2000 - Hybrid Theory Instrumentals/11 - Pushing Me Away (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/USA Radio CD [Version 2]/01 - One Step Closer (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/USA Radio CD [Version 2]/02 - One Step Closer (Rock Mix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/UK CD Single/01 - One Step Closer (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/UK CD Single/02 - My December.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/UK CD Single/03 - High Voltage (2000 Reprise aka Mr.Hahn Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Plaster/01 - Plaster (David Kahne Mix 1 Of 4).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/01 - Paper Cut.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/02 - Now I See.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/03 - Points Of Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/04 - Plaster.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/05 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/06 - Runaway.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/07 - The Untitled.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/08 - By Myself.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/09 - The Cure.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/10 - The Cure For Mr.Hahn's Itch.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/11 - A Place For My Head.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (Unmastered Studio Finals 5-7-00)/12 - Forgotten.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (band) Website Demos/03 - With You.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2000 - Hybrid Theory (band) Website Demos/04 - Points of Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/02 - Crawling (2001)/01 - Crawling (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/02 - Crawling (2001)/02 - Papercut (Live on BBC Radio One).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/04 - In The End (2001)/In the End CD1/01 - In the End (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/04 - In The End (2001)/In the End CD1/02 - A Place for My Head (Live at Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/04 - In The End (2001)/In the End CD1/03 - Step Up (1999 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/04 - In The End (2001)/In the End CD2/01 - In the End (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/04 - In The End (2001)/In the End CD2/02 - In the End (Live on BBC Radio One).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/04 - In The End (2001)/In the End CD2/03 - Points of Authority (Live at Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2002 - In the End (Live & Rare)/01 - In The End (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2002 - In the End (Live & Rare)/02 - Papercut (Live at Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2002 - In the End (Live & Rare)/03 - Points Of Authority (Live at Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2002 - In the End (Live & Rare)/04 - A Place For My Head (Live at Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2002 - In the End (Live & Rare)/05 - Step Up (1999 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2002 - In the End (Live & Rare)/06 - My December.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2002 - In the End (Live & Rare)/07 - High Voltage (2000 Reprise).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/Humble Brothers Remixes Internal Review CDR/01 - One Step Closer (Humble Brothers Remix) (Extended).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/Humble Brothers Remixes Internal Review CDR/02 - One Step Closer (Humble Brothers Remix) (FM Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/01 - One Step Closer (2000)/Humble Brothers Remixes Internal Review CDR/03 - One Step Closer (Humble Brothers Remix) (LP Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/03 - Papercut (2001)/01 - Papercut (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/03 - Papercut (2001)/02 - Points of Authority (Live on BBC Radio One).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/03 - Papercut (2001)/03 - Papercut (Live at Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Enth E Nd (Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/KRWLNG (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/05 - ENTH E ND_FRGT10 (2002)/01-ENTH E ND (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/05 - ENTH E ND_FRGT10 (2002)/02-ENTH E ND (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/05 - ENTH E ND_FRGT10 (2002)/03-FRGT10 (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/05 - ENTH E ND_FRGT10 (2002)/04-FRGT10 (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/07 - H! VLTG3 (2002)/01 - H! VLTG3 (Album Vocal).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/07 - H! VLTG3 (2002)/03 - H! VLTG3 (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/07 - H! VLTG3 (2002)/02 - H! VLTG3 (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/01 - Papercut (Live At Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/02 - Points Of Authority (Live At Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/03 - A Place For My Head (Live At Docklands Arena, London).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/04 - My December.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/05 - High Voltage.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/06 - PTS.OF.ATHRTY (2002)/01 - [PTS.OF.ATHRTY] (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/06 - PTS.OF.ATHRTY (2002)/02 - BUY MYSELF REMIX.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/06 - PTS.OF.ATHRTY (2002)/03 - H! VLTG3 (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/01 - Opening.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/02 - Pts.Of.Athrty (Jay Gordon).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/03 - Enth E Nd (Kutmasta Kurt ft. Motion Man).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/04 - [Chali].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/05 - Frgt-10 (Alchemist ft. Chali 2na).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/06 - P5hng Me A-Wy (Mike Shinoda ft. Stephen Richards).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/07 - Plc.4 Mie Haed (Amp Live ft. Zion).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/08 - X-Ecutioner Style (ft. Black Thought).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/09 - H! Vltg3 (Evidence ft. Pharoahe Monch & Dj Babu).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/10 - Riff Raff.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/11 - Wth-You (Chairman Hahn ft. Aceyalone).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/12 - Ntr-Mssion.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/13 - Ppr-Kut (Cheapshot & Jubacca ft. Rasco & Planet Asia).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/14 - Rnw@Y (Backyard Bangers ft. Phoenix Orion).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/15 - My-Dsmbr (Mickey P. ft. Kelli Ali).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/16 - [Stef].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/17 - By_Myslf (Josh Abraham & Mike Shinoda).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/18 - Kyur4 Th Ich (Chairman Hahn).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/19 - 1stp Klosr (The Humble Brothers ft. Jonathan Davis).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/02 - Reanimation (2002)/20 - Krwlng (Mike Shinoda ft. Aaron Lewis).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/01 - Krwlng.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/02 - Frgt-10.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/03 - Enth E Nd.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/04 - Pts.Of.Athrty.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/05 - H! Vltg3.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/06 - 1stp Klosr (Humble Brothers Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/07 - Ppr-kut.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2002 - Reanimation Internal Demo CD/08 - One Step Closer (Humble Bros Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/One Step Closer (feat. Aaron Lewis) (Live from The Family Values Tour 2001).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Runaway (Live from The Family Values Tour 2001).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2002 - Underground 2.0/01 - A.06.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2002 - Underground 2.0/02 - With You (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2002 - Underground 2.0/03 - PTS.OF.ATHRTY (Crystal Method Remix).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2002 - Underground 2.0/04 - Dedicated (Demo 1999).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2002 - Underground 2.0/05 - High Voltage (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2002 - Underground 2.0/06 - My December.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/09 - Faint (2003)/02 - Lying From You (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/09 - Faint (2003)/03 - One Step Closer (Reanimated Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/09 - Faint (2003)/01 - Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/11 - From the Inside (2003)/01 - From the Inside (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/11 - From the Inside (2003)/02 - Runaway (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/11 - From the Inside (2003)/03 - From the Inside (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/01 - Somewhere I Belong.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/02 - Lying from You.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/03 - Papercut.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/04 - Points of Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/05 - Runaway.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/06 - Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/07 - From the Inside.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/08 - P5HNG ME AWY.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/09 - Numb.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/10 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/11 - In the End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/04 - Live in Texas (2003)/12 - One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/01 - Foreword.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/02 - Don't Stay.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/03 - Somewhere I Belong.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/04 - Lying from You.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/05 - Hit the Floor.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/06 - Easier to Run.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/07 - Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/08 - Figure.09.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/09 - Breaking the Habit.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/10 - From the Inside.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/11 - Nobody's Listening.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/12 - Session.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/13 - Numb.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/Deluxe Edition/14 - Lying from You [Live].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/Deluxe Edition/15 - From the Inside [Live].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/03 - Meteora (2003)/Deluxe Edition/16 - Easier to Run [Live].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/10 - Numb (2003)/Numb CD1/01 - Numb (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/10 - Numb (2003)/Numb CD1/02 - From the Inside (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/10 - Numb (2003)/Numb CD2/01 - Numb (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/10 - Numb (2003)/Numb CD2/02 - Easier to Run (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/08 - Somewhere I Belong (2003)/01 - Somewhere I Belong (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/08 - Somewhere I Belong (2003)/02 - Step Up (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/08 - Somewhere I Belong (2003)/03 - My December (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2003 - Underground 3.0/01 - Don't Stay.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2003 - Underground 3.0/02 - Figure.09.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2003 - Underground 3.0/03 - With You.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2003 - Underground 3.0/04 - By Myself.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2003 - Underground 3.0/05 - A Place for my Head.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/12 - Breaking the Habit (2004)/01 - Breaking the Habit (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/12 - Breaking the Habit (2004)/02 - Crawling (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/01 - Hybrid Theory Era/4 GT 10 (Remix by Chali 2na).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2004 - Underground 4.0/01 - Sold My Soul To Yo Mama.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2004 - Underground 4.0/02 - Breaking The Habit (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2004 - Underground 4.0/03 - Standing In The Middle.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2004 - Underground 4.0/04 - Step Up,Nobody's Listening,It's Goin' Down (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2004 - Underground 4.0/05 - Wish (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2004 - Underground 4.0/06 - One Step Closer [feat Jonathan Davis] (live).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/01 - Hybrid Theory Era/Papercut (vs. David Banner) (Remix by DJ Vlad and Roc Raida).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/02 - Meteora Era/Nobody's Listening (Remix by Green Lantern).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2005 - Underground 5.0/01 - Somewhere I Belong (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2005 - Underground 5.0/02 - Breaking The Habit  (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2005 - Underground 5.0/03 - Public Service Announcement  -  Intro  (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2005 - Underground 5.0/04 - Dirt Off Your Shoulder , Lying From You  (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2005 - Underground 5.0/05 - Big Pimpin' , Papercut  (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2005 - Underground 5.0/06 - Jigga What , Faint  (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2006 - Underground 6.0/01 - Announcement Service Public.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2006 - Underground 6.0/02 - Qwerty.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2006 - Underground 6.0/03 - Qwerty (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2006 - Underground 6.0/04 - Pushing Me Away (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2006 - Underground 6.0/05 - Breaking The Habit (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2006 - Underground 6.0/06 - Reading My Eyes (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/15 - Bleed It Out (2007)/AU Single/01 - Bleed it Out (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/15 - Bleed It Out (2007)/AU Single/02 - What I've Done (Distorted Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/15 - Bleed It Out (2007)/AU Single/03 - Given Up (Third Encore Session).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/15 - Bleed It Out (2007)/EU Radio CD/01 - Bleed it Out (Radio Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/01 - Wake.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/02 - Given Up.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/03 - Leave Out All the Rest.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/04 - Bleed it Out.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/05 - Shadow of the Day.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/06 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/07 - Hands Held High.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/08 - No More Sorrow.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/09 - Valentine's Day.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/10 - In Between.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/11 - In Pieces.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/12 - The Little Things Give You Away.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Tour Edition Bonus Tracks/13 - No Roads Left (Bonus).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Tour Edition Bonus Tracks/14 - What I've Done (Distorted Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Tour Edition Bonus Tracks/15 - Given Up (Third Encore Session).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Asian Digital Download Tour Edition Bonus Tracks/13 - One Step Closer (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Asian Digital Download Tour Edition Bonus Tracks/14 - Lying from You (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Asian Digital Download Tour Edition Bonus Tracks/15 - Somewhere I Belong (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Asian Digital Download Tour Edition Bonus Tracks/16 - No More Sorrow (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Asian Digital Download Tour Edition Bonus Tracks/17 - Papercut (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Best Buy Edition Bonus Tracks/13 - What I've Done (live at AOL Sessions).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Best Buy Edition Bonus Tracks/14 - No More Sorrow (live at AOL Sessions).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Japan Edition Bonus Track/13 - Faint (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/01 - Wake.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/02 - Given Up.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/03 - Leave Out All The Rest.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/04 - Bleed It Out.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/05 - Shadow Of The Day.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/06 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/07 - Hands Held High.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/08 - No More Sorrow.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/09 - Valentine's Day.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/10 - In Between.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/11 - In Pieces.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (Clean) (2007)/12 - The Little Things Give You Away.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/International Version/13 - About Minutes to Midnight Audio Commentary.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Wal-Mart Exclusive Bonus Tracks/13 - Breaking The Habit (Live At Soundcheck).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/Wal-Mart Exclusive Bonus Tracks/14 - What I've Done (Live At Soundcheck).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2007 - Promo Instrumentals/01 - What I've Done (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2007 - Promo Instrumentals/02 - Bleed It Out (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2007 - Promo Instrumentals/03 - Shadow Of The Day (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Instrumentals/2007 - Promo Instrumentals/04 - Numb (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/16 - Shadow Of The Day (2007)/01 - Shadow of the Day (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/16 - Shadow Of The Day (2007)/02 - Bleed it Out (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/16 - Shadow Of The Day (2007)/03 - No More Sorrow (Third Encore Session).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/01 - No More Sorrow.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/02 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/03 - One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/04 - Given Up.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/05 - Numb.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/06 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/07 - The Little Things Give You Away.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/08 - In the End.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/09 - Bleed it Out.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2007 - Underground 7.0/10 - Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/14 - What I've Done (2007)/01 - What I've Done (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/14 - What I've Done (2007)/02 - Faint (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/14 - What I've Done (2007)/03 - From the Inside (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/17 - Given Up (2007)/Digital Single (from music.ovi.com)/01 - Given Up.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/17 - Given Up (2007)/Digital Single (from music.ovi.com)/02 - Valentine's Day (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/17 - Given Up (2007)/Digital Single (from music.ovi.com)/03 - In Between (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/17 - Given Up (2007)/German CD/01 - Given Up (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/17 - Given Up (2007)/German CD/02 - Valentine's Day (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/18 - Leave Out All The Rest (2008)/Single CD/01 - Leave Out All The Rest.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/18 - Leave Out All The Rest (2008)/Single CD/02 - In Pieces (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/18 - Leave Out All The Rest (2008)/Single CD/03 - Leave Out All The Rest (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/18 - Leave Out All The Rest (2008)/Japanese CD/01 - Leave out All the Rest (Single Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/18 - Leave Out All The Rest (2008)/Japanese CD/02 - Leave out All the Rest (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/18 - Leave Out All The Rest (2008)/Japanese CD/03 - L.O.A.T.R. (M.Shinoda Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/European Digital Download Tour Edition Bonus Tracks/13 - What I've Done (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/European Digital Download Tour Edition Bonus Tracks/14  -One Step Closer (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/06 - Minutes To Midnight (2007)/European Digital Download Tour Edition Bonus Tracks/15 - Faint (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/01 - One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/02 - From the Inside.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/03 - No More Sorrow.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/04 - Given Up.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/05 - Lying from You.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/06 - Hands Held High.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/07 - Leave Out All the Rest.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/08 - Numb.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/09 - The Little Things Give You Away.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/10 - Breaking the Habit.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/11 - Shadow of the Day.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/12 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/13 - In the End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/14 - Pushing Me Away.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/15 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/16 - NumbEncore.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/17 - Jigga WhatFaint.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/18 - Bleed it Out.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/DVD bonus/19 - Somewhere I Belong (Hidden Track).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/DVD bonus/20 - Papercut (Hidden Track).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/07 - Road To Revolution Live At Milton Keynes (DVD Bonus) (2008)/DVD bonus/21 - Points of Authority (Hidden Track).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/01 - Announcement Service Public.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/02 - Qwerty.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/03 - And One.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/04 - Sold My Soul To Yo Mama.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/05 - Dedicated (Demo 1999).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/06 - Hunger Strike (Live From Projekt Revolution 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/07 - My December (Live 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/08 - Part of Me.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2008 - Songs from the Underground/Downloadable Bonus Track/09 - Crawling (Live From Projekt Revolution 2008).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2008 - Underground 8.0 (mmm...Cookies - Sweet Hamster Like Jewels From America!)/01 - You Ain't Gotsta Gotsta.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2008 - Underground 8.0 (mmm...Cookies - Sweet Hamster Like Jewels From America!)/02 - Bubbles.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2008 - Underground 8.0 (mmm...Cookies - Sweet Hamster Like Jewels From America!)/03 - No Laundry.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2008 - Underground 8.0 (mmm...Cookies - Sweet Hamster Like Jewels From America!)/04 - Da Bloos.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2008 - Underground 8.0 (mmm...Cookies - Sweet Hamster Like Jewels From America!)/05 - PB N' Jellyfish.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2008 - Underground 8.0 (mmm...Cookies - Sweet Hamster Like Jewels From America!)/06 - 26 Lettaz in da Alphabet.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/Japan Edition Bonus Track/16 - New Divide (Live).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/01 - A-Six (Original Long Version).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/02 - Faint (Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/03 - Sad ('By Myself' Demo 1999).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/04 - Fear ('Leave Out All The Rest' Demo 2006).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/05 - Figure.09 (Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/06 - Stick And Move ('Runaway' Demo 1999).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/07 - Across The Line (Unreleased Demo 2007 + Intro).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/08 - Drawing ('Breaking The Habit' Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos) Acetate Disc/09 - Drum Song ('Little Things Give You Away' Demo 2006).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/20 - New Divide (2009)/01 - New Divide.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/20 - New Divide (2009)/02 - New Divide (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/20 - New Divide (2009)/03 - New Divide (A Cappella).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/01 - A - Six (Original Long Version 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/02 - Faint (Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/03 - Sad ('By Myself' Demo 1999).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/04 - Fear ('Leave Out All The Rest' Demo 2006).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/05 - Figure.09 (Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/06 - Stick and Move ('Runaway' Demo 1998).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/07 - Across The Line (Unreleased Demo 2007).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/08 - Drawing ('Breaking The Habit' Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2009 - Underground 9.0 (Demos)/09 - Drum Song ('Little Things Give You Away' Demo 2006).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/01 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/02 - Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/03 - Hands Held High .mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/04 - In The End.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/05 - New Divide.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/06 - No More Sorrow.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/07 - One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2010 - 8 bit Rebellion/08 - QWERTY.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/01 - The Requiem.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/01 - The Requiem.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/02 - The Radiance.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/02 - The Radiance.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/03 - Burning In The Skies.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/03 - Burning In The Skies.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/04 - Empty Spaces.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/04 - Empty Spaces.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/05 - When They Come For Me.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/05 - When They Come For Me.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/06 - Robot Boy.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/06 - Robot Boy.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/07 - Jornada Del Muerto.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/07 - Jornada Del Muerto.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/08 - Waiting For The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/08 - Waiting For The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/09 - Blackout.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/09 - Blackout.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/10 - Wretches And Kings.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/10 - Wretches And Kings.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/11 - Wisdom, Justice, And Love.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/11 - Wisdom, Justice, And Love.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/12 - Iridescent.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/12 - Iridescent.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/13 - Fallout.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/13 - Fallout.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/14 - The Catalyst.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/14 - The Catalyst.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/15 - The Messenger.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (Clean) (2010)/15 - The Messenger.mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/The Catalyst (Remix by Digitalomat).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/The Catalyst (Remix by Ill Audio).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/The Catalyst (Does It Offend You, Yeah Remix) (Remix by FSG).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/The Catalyst (Remix by Keaton Hashimoto).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/When They Come For Me (Remix by Diplo).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Linkin Park - Not Alone.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Black Out (Blackout Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/01 - Hybrid Theory Era/Pts.of.Athrty (Remix by FSG).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2011 - North American Tour EP/01 - Numb (live from Tel Aviv_ 11-15-10).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2011 - North American Tour EP/02 - When They Come For Me (live from Tel Aviv_ 11-15-10).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2011 - North American Tour EP/03 - Omen.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2011 - North American Tour EP/04 - Watercolour.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2011 - North American Tour EP/05 - We Are The Dead.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/The Catalyst (Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/08 - A Thousand Suns (2010)/HMV Exlusive Bonus Track/17 - The Catalyst (NoBrain Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/21 - The Catalyst (2010)/USA CD/01 - The Catalyst.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/21 - The Catalyst (2010)/USA CD/02 - New Divide (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/21 - The Catalyst (2010)/UK Radio CD/01 - The Catalyst (Radio Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/21 - The Catalyst (2010)/UK Radio CD/02 - The Catalyst (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/01 - Unfortunate (Unreleased Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/02 - What We Don’t Know (Unreleased Demo 2007).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/03 - Oh No (Points Of Authority Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/04 - I Have Not Begun (Unreleased Demo 2009).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/05 - Pale (Unreleased Demo 2006).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/06 - Pretend To Be (Unreleased Demo 2008).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/07 - Divided (Unreleased Demo 2005).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/08 - What I’ve Done (M.Shinoda Remix).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/09 - Coal (Unreleased Demo 1997).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2010 - Underground X/10 - Halo (Unreleased Demo 2002).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/22 - Waiting for the End (2010)/German CD/01 - Waiting For The End (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/22 - Waiting for the End (2010)/German CD/02 - Waiting For The End (The Glitch Mob Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/22 - Waiting for the End (2010)/Promo (Non Rap Version)/01 - Waiting For The End (Non Rap Version).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Waiting For The End (Remix by DJ Lynnwood & Dave Dresden) (DJ Friendly Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Waiting For The End (Remix by DJ Lynnwood & Dave Dresden) (Dubstrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Waiting For The End (Remix by DJ Lynnwood & Dave Dresden) (Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Waiting For The End (Remix by DJ Lynnwood & Dave Dresden) (Extended).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Blackout (A Thousand Horizons version).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Iridescent (A Thousand Horizons version).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/The Catalyst (A Thousand Horizons version).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/The Fallout (A Thousand Horizons version).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/01 - The Requiem.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/02 - Wretches & Kings.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/03 - Papercut.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/04 - New Divide.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/05 - Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/06 - Empty Spaces-When They Come for Me.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/07 - Waiting For The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/08 - Iridescent.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/09 - Numb.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/10 - The Radiance.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/11 - Breaking The Habit.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/12 - Shadow Of The Day.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/13 - Fallout.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/14 - The Catalyst.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/15 - The Messenger.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/16 - In The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/17 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/09 - A Thousand Suns Plus - Live In Madrid (2011)/18 - Bleed It Out-A Place For My Head.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/23 - Burning In The Skies (2011)/CD Single/01 - Burning In The Skies.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/23 - Burning In The Skies (2011)/CD Single/02 - Blackout (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/23 - Burning In The Skies (2011)/UK Radio CD/01 - Burning In The Skies (Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Linkin Park -  Issho Ni.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/24 - Iridescent (2011)/CD Single/01 - Iridescent.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/24 - Iridescent (2011)/CD Single/02 - New Divide.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/24 - Iridescent (2011)/CD Single/03 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/01 - YO (MTM Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/02 - Slip (1998 Unreleased Hybrid Theory Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/03 - Soundtrack (Meteora Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/04 - In the End (Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/05 - Program (Meteora Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/06 - Bang Three (What I've Done Original Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/07 - Robot Boy (Test Mix, Optional Vocal Take).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/08 - Broken Foot (Meteora Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/09 - Esaul (A Place for My Head Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2011 - Underground 11/10 - Blue (1998 Unreleased Hybrid Theory Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Wretches Remix (Remix by Apathy).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/01 - The Requiem (Live from London, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/02 - Burning In The Skies (Live from Hamburg, 2011).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/03 - When They Come For Me (Live from Paris, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/04 - Jornada Del Muerto (Live from Hamburg, 2011).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/05 - Waiting For The End (Live from Berlin, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/06 - Blackout (Live from Hamburg, 2011).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/07 - Wretches And Kings (Live from Las Vegas, 2011).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/08 - Iridescent (Live from Paris, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/09 - The Catalyst (Live from Paris, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/04 - A Thousand Suns - Live Around The World/10 - The Messenger (Live from Las Vegas, 2011).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/25 - BURN IT DOWN (2012)/01 - BURN IT DOWN.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/25 - BURN IT DOWN (2012)/02 - New Divide (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/25 - BURN IT DOWN (2012)/03 - In The End (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/25 - BURN IT DOWN (2012)/04 - What I've Done (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/01 - BURN IT DOWN (Main).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/02 - BURN IT DOWN (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/03 - BURN IT DOWN (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/04 - BURN IT DOWN (Paul Van Dyk Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/05 - BURN IT DOWN (Paul Van Dyk Radio Edit) (No Rap).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/06 - BURN IT DOWN (Paul Van Dyk Remix) (No Rap).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/07 - BURN IT DOWN (RAC Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/08 - BURN IT DOWN (Hann With Gun Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/09 - BURN IT DOWN (Double Dust Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/10 - BURN IT DOWN (Heavy Burn Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/11 - BURN IT DOWN (Arya Shani Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2012 - BURN IT DOWN Remixes/12 - BURN IT DOWN (John Reaper Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/27 - CASTLE OF GLASS (2012)/Single CD/01 - CASTLE OF GLASS.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/27 - CASTLE OF GLASS (2012)/Promo CDM/01 - CASTLE OF GLASS (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/27 - CASTLE OF GLASS (2012)/Promo CDM/02 - CASTLE OF GLASS (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/27 - CASTLE OF GLASS (2012)/Single CD/02 - LOST IN THE ECHO (KillSonik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/27 - CASTLE OF GLASS (2012)/Promo CDM/03 - CASTLE OF GLASS (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/01 - Papercut (Live from Paris, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/02 - One Step Closer (Live from Frankfurt, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/03 - Points Of Authority (Live from Sydney, 2007).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/04 - Crawling (Live from Athens, 2009).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/05 - In The End (Live from Melbourne, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/06 - A Place For My Head (Live from Koln, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/07 - Cure For The Itch (Live from Perth, 2007).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/01 - Hybrid Theory - Live Around The World/08 - Pushing Me Away (Live from Dallas, 2007).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/01 - LOST IN THE ECHO.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/02 - IN MY REMAINS.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/03 - BURN IT DOWN.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/04 - LIES GREED MISERY.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/05 - I'LL BE GONE.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/06 - CASTLE OF GLASS.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/07 - VICTIMIZED.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/08 - ROADS UNTRAVELED.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/09 - SKIN TO BONE.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/10 - UNTIL IT BREAKS.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/11 - TINFOIL.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/12 - POWERLESS.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/01 - LOST IN THE ECHO (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/02 - IN MY REMAINS (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/03 - BURN IT DOWN (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/04 - LIES GREED MISERY (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/05 - I'LL BE GONE (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/06 - CASTLE OF GLASS (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/07 - VICTIMIZED (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/08 - ROADS UNTRAVELED (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/09 - SKIN TO BONE (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/10 - UNTIL IT BREAKS (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/11 - TINFOIL POWERLESS (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/12 - LOST IN THE ECHO (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/13 - IN MY REMAINS (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/14 - BURN IT DOWN (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/15 - LIES GREED MISERY (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/16 - I'LL BE GONE (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/17 - CASTLE OF GLASS (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/18 - VICTIMIZED (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/19 - ROADS UNTRAVELED (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/20 - SKIN TO BONE (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/21 - UNTIL IT BREAKS (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS Acapellas And Instrumentals (2012)/22 - POWERLESS (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/01 - BURN IT DOWN (RAC Mix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/02 - BURN IT DOWN (Paul Van Dyk Mix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/04 - UNTIL IT BREAKS (Datsik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/05 - ROADS UNTRAVELED (Rad Omen Remix feat. Bun B).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/06 - BURN IT DOWN (Bobina Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/07 - UNTIL IT BREAKS (Money Mark Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/LIVING THINGS Remix Subscription/08 - POWERLESS (Enferno Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/26 - LOST IN THE ECHO (2012)/Single CD/01 - Lost In The Echo (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/26 - LOST IN THE ECHO (2012)/Promo CDM/01 - LOST IN THE ECHO (Radio Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/26 - LOST IN THE ECHO (2012)/Single CD/02 - Lost In The Echo (Instrumental Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/26 - LOST IN THE ECHO (2012)/Promo CDM/02 - LOST IN THE ECHO (Killsonik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/26 - LOST IN THE ECHO (2012)/Promo CDM/03 - LOST IN THE ECHO (Killsonik Remix Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/02 - Meteora - Live Around The World/01 - Don't Stay (Live from Shanghai, 2007).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/02 - Meteora - Live Around The World/02 - Somewhere I Belong (Live from Koln, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/02 - Meteora - Live Around The World/03 - Lying From You (Live from New York, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/02 - Meteora - Live Around The World/04 - Faint (Live from Hamburg, 2011).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/02 - Meteora - Live Around The World/05 - Breaking The Habit (Live from Hamburg, 2011).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/02 - Meteora - Live Around The World/06 - From The Inside (Live from Sydney, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/02 - Meteora - Live Around The World/07 - Numb (Live New York, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/01 - Wake (Live from Taipei, 2007).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/02 - Given Up (Live from Taipei, 2009).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/03 - Leave Out All The Rest (Live from Frankfurt, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/04 - Bleed It Out (Live from Melbourne, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/05 - Shadow Of The Day (Live from Melbourne, 2010).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/06 - What I've Done (Live from New York, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/07 - Hands Held High (Live from Osaka, 2007).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/08 - No More Sorrow (Live from Taipei, 2009).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/09 - Valentine's Day (Live from Amnéville, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/10 - In Between (Live from Paris, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/11 - In Pieces (Live from Koln, 2008).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/Linkin Park - Around The World/03 - Minutes To Midnight - Live Around The World/12 - The Little Things Give You Away (Live from Shanghai, 2007).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2012 - Stagelight Demos/01 - Bruiser.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2012 - Stagelight Demos/02 - Space Station.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2012 - Stagelight Demos/03 - LP Jam 01.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2012 - Stagelight Demos/04 - LP Jam 02.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2012 - Stagelight Demos/05 - Complimentary.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/01 - Homecoming (Minutes to Midnight Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/02 - Points of Authority (Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/03 - Clarity (Minutes to Midnight Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/04 - Asbestos (Minutes to Midnight Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/05 - Bunker (Minutes to Midnight Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/06 - So Far Away (Unreleased 1998).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/07 - Pepper (Meteora Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/08 - Debris (Minutes to Midnight Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/09 - Ominous (Meteora Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2012 - Underground 12/10 - Forgotten (Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/28 - A LIGHT THAT NEVER COMES (2013)/01 - A LIGHT THAT NEVER COMES (feat. Steve Aoki) .mp3
+/home/jere/Music/Metal/Linkin Park/Singles/28 - A LIGHT THAT NEVER COMES (2013)/02 - UNTIL IT BREAKS (Datsik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2013 - CASTLE OF GLASS/01. CASTLE OF GLASS.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2013 - CASTLE OF GLASS/02. LOST IN THE ECHO (KillSonik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2013 - CASTLE OF GLASS/03. BURN IT DOWN (Live Rock Im Park 2012).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2013 - CASTLE OF GLASS/04. LIES GREED MISERY (Live Rock Im Park 2012).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/01 - Faint (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/02 - Papercut (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/03 - With You (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/04 - Given Up (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/05 - Blackout (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/06 - Somewhere I Belong (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/07 - New Divide (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/08 - LIES GREED MISERY (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/09 - Waiting For The End (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/10 - Breaking The Habit (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/11 - Leave Out All The Rest (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/12 - Shadow Of The Day (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/13 - Iridescent (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/14 - What I've Done (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/15 - One Step Closer (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/16 - Burn It Down (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/17 - In The End (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/18 - Numb (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/11 - LIVING THINGS PLUS (2013)/19 - Bleed It Out (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/Australian Tour Edition Bonus Tracks/01 - In the End (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/Australian Tour Edition Bonus Tracks/02 - New Divide (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/Australian Tour Edition Bonus Tracks/03 - What I've Done (Live).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/Australian Tour Edition Bonus Tracks/04 - LOST IN THE ECHO (KillSonik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/Australian Tour Edition Bonus Tracks/05 - BURN IT DOWN (Live Rock im Park 2012).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/10 - LIVING THINGS (2012)/Australian Tour Edition Bonus Tracks/06 - LIES GREED MISERY (Live Rock im Park 2012).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/04 - Living Things Era/LOST IN THE ECHO (Remix by Soundcrafters).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/04 - Living Things Era/LOST IN THE ECHO (Remix by The Dual Personality).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/01. A LIGHT THAT NEVER COMES (feat. Steve Aoki).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/02. CASTLE OF GLASS (M. Shinoda Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/03.LOST IN THE ECHO (Killsonik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/04. VICTIMIZED (M. Shinoda Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/05. I'LL BE GONE (Vice Remix Feat. Pusha T).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/06. LIES GREED MISERY (Dirtyphonics Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/07. ROADS UNTRAVELED (Rad Omen Remix Feat. Bun B).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/08. POWERLESS (Enferno Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/09. BURN IT DOWN (Tom Swoon Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/10. UNTIL IT BREAKS (Datsik Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/11. SKIN TO BONE (Nick Catchdubs Remix Feat. Cody B. Ware And Ryu).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/12. I'LL BE GONE (Schoolboy Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/13. UNTIL IT BREAKS (Money Mark Headphone Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/14. A LIGHT THAT NEVER COMES (Rick Rubin Reboot).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/12 - RECHARGED (2013)/15. BURN IT DOWN (Paul Van Dyk Remix) (Bonus Track).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/01 - Basquiat [2007 Demo].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/02 - Holding Company [2011 Demo].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/03 - Primo [I'll Be Gone-Longform 2010 Demo].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/04 - Hemispheres [2011 Demo].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/05 - Cumulus [2002 Demo].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/06 - Pretty Birdy [Somewhere I Belong 2002 Demo].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/07 - Universe [2006 Demo].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/08 - Apaches [Until it Breaks Demo No. 1].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/09 - Foot Patrol [Until it Breaks Demo No. 2].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/10 - Three Band Terror [Until it Breaks Demo No. 3].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/31 - Final Masquerade/Single CD/01 - Final Masquerade.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/31 - Final Masquerade/Single CD/02 - Until It's Gone (Live At Rock AM Ring).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/29 - Guilty All The Same (2014)/01 - Guilty All The Same (Feat. Rakim) (Album Version).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/29 - Guilty All The Same (2014)/02 - Guilty All The Same (Feat. Rakim) (Shorter Edit).mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/01 - Papercut.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/02 - One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/03 - With You.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/04 - Points Of Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/05 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/06 - Runaway.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/07 - By Myself.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/08 - In The End.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/09 - A Place For My Head.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/10 - Forgotten.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/11 - Cure For The Itch.mp3
+/home/jere/Music/Metal/Linkin Park/Bootlegs/2014 - Hybrid Theory Live at Download Festival/12 - Pushing Me Away.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/01 - Intro.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/02 - Wastelands.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/03 - Menu Theme.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/04 - Main Theme.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/05 - Susp (Battle Theme).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/06 - Fallout.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/07 - Fuel.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/08 - Wide Fields.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/09 - Human.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/10 - Search.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/11 - Charge.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/12 - Change.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/13 - Lost.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/14 - Hope.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - LP Recharge - Wastelands (Score)/15 - Dawn.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2012 - Stagelight Demos/06 - Asteroids.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/01 - Keys To The Kingdom.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/02 - All For Nothing Feat. Page Hamilton.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/03 - Guilty All The Same Feat. Rakim.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/04 - The Summoning.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/05 - War.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/06 - Wastelands.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/07 - Until It's Gone.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/08 - Rebellion Feat. Daron Malakian.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/09 - Mark The Graves.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/10 - Drawbar Feat. Tom Morello.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/11 - Final Masquerade.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/12 - A Line In The Sand.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/01 - Keys To The Kingdom (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/02 - All For Nothing (feat. Page Hamilton) (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/03 - Guilty All The Same (feat. Rakim) (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/04 - War (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/05 - Wastelands (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/06 - Until It's Gone (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/07 - Rebellion (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/08 - Mark The Graves (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/09 - Final Masquerade (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/10 - A Line In The Sand (Acapella).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/11 - Keys To The Kingdom (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/12 - All For Nothing (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/13 - Guilty All The Same (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/14 - The Summoning (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/15 - War (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/16 - Wastelands (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/17 - Until It's Gone (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/18 - Rebellion (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/19 - Mark The Graves (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/20 - Drawbar (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/21 - Final Masquerade (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/15 - The Hunting Party Acapellas + Instrumentals (2014)/22 - A Line In The Sand (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/01 - Intro.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/02 - A Place For My Head.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/03 - New Divide.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/04 - Somewhere I Belong.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/05 - Points Of Authority.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/06 - LIES GREED MISERY.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/07 - LOST IN THE ECHO.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/08 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/09 - BURN IT DOWN.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/10 - In The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/11 - Bleed It Out.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/12 - One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/14 - The Hunting Party - Live in Monterrey (2014)/13 - Credits.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/Xbox Music 4 Bonus Track Exclusive/13 - With You (Live in LA 9.8.12) [Exclusively on Xbox Music].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/Xbox Music 4 Bonus Track Exclusive/14 - LOST IN THE ECHO (Live in LA 9.8.12) [Exclusively on Xbox Music].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/Xbox Music 4 Bonus Track Exclusive/15 - Numb (Live in LA 9.8.12) [Exclusively on Xbox Music].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/13 - The Hunting Party (2014)/Xbox Music 4 Bonus Track Exclusive/16 - BURN IT DOWN (Live in LA 9.8.12) [Exclusively on Xbox Music].mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/01 - Aubrey One (2009 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/02 - Malathion + Tritonus (2008 Berlin Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/03 - Berlin One, Version C (2009 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/04 - Blanka (2008 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/05 - Heartburn (2007 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/06 - Breaking The Habit (Original Mike 2002 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/07 - Dave Sbeat (Feat. Joe) (2009).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/08 - Froctagon (2009 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/09 - Rhinocerous (2002 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2014 - Underground XIV/10 - After Canada (2005 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/30 - Until Its Gone (2014)/01 - Until It's Gone.mp3
+/home/jere/Music/Metal/Linkin Park/Singles/30 - Until Its Gone (2014)/02 - Guilty All The Same (Feat. Rakim).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/33 - Darker Than Blood (2015)/01 - Darker Than Blood (feat. Steve Aoki) .mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2015 - Darker Than Blood (Remixes)/01 - Darker Than Blood (Bassjackers Remix) (feat. Steve Aoki).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2015 - Darker Than Blood (Remixes)/02 - Darker Than Blood (Panic City Remix) (feat. Steve Aoki).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2015 - Darker Than Blood (Remixes)/03 - Darker Than Blood (Dirty Audio Remix) (feat. Steve Aoki).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2015 - Darker Than Blood (Remixes)/04 - Darker Than Blood (Josh Macias Remix) (feat. Steve Aoki).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/01 - Animals (2011 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/02 - Basil (2008 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/03 - Pods 1 of 3 (1998 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/04 - Pods 2 of 3 (1998 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/05 - Pods 3 of 3 (1998 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/06 - Chance of Rain (2006 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/Bi-Monthly Releases/07 - TooLeGit (2010 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/Bi-Monthly Releases/08 - Grudematch (2009 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/Bi-Monthly Releases/09 - Hurry (1999 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/Bi-Monthly Releases/10 - Grr (1999 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/Bi-Monthly Releases/11 - Attached (2003 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2015 - Underground 15/Bi-Monthly Releases/12 - Chair (1999 Part of Me Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/01 - The Catalyst  (2010 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/02 - Can't Hurt Me  (2014 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/03 - Dark Crystal  (2015 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/04 - Air Force One (2015 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/05 - Bleed It Out (2007 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/06 - Consequence A (2010 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/07 - Consequence B  (2010 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/08 - Lies Greed Misery  (2010 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/09 - Burberry (2015 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2016 - Underground 16/10 - Symphonies Of Light Reprise (2010 Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/06 - One More Light Era/Heavy (feat. Kiiara) [Disero Remix].mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/06 - One More Light Era/Heavy (feat. Kiiara) [Nicky Romero Remix].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/34 - Heavy (2017)/Promo CD/01 - Heavy (feat. Kiiara).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/34 - Heavy (2017)/Promo CD/02 - Heavy (feat. Kiiara) [Clean].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/34 - Heavy (2017)/Promo CD/03 - Heavy (feat. Kiiara) [Instrumental].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/34 - Heavy (2017)/Promo CD/04 - Heavy (feat. Kiiara) [TV Track].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/34 - Heavy (2017)/Promo CD/05 - Heavy (feat. Kiiara) [Acapella].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/34 - Heavy (2017)/Promo CD/06 - Heavy (feat. Kiiara) [Clean Acapella].mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/01 - Nobody Can Save Me.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/02 - Good Goodbye (feat. Pusha T and Stormzy).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/03 - Talking to Myself.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/04 - Battle Symphony.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/05 - Invisible.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/06 - Heavy (feat. Kiiara).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/07 - Sorry for Now.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/08 - Halfway Right.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/09 - One More Light.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/16 - One More Light (2017)/10 - Sharp Edges.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/01 - Talking To Myself.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/02 - Burn It Down.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/03 - Battle Symphony.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/04 - New Divide.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/05 - Invisible.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/06 - Nobody Can Save Me.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/07 - One More Light.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/08 - Crawling.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/09 - Leave Out All The Rest.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/10 - Good Goodbye (feat. Stormzy).mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/11 - What I've Done.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/12 - In The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/13 - Sharp Edges.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/14 - Numb.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/15 - Heavy.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/17 - One More Light Live (2017)/16 - Bleed It Out.mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/06 - One More Light Era/One More Light (Steve Aoki Chester Forever Remix).mp3
 /home/jere/Music/Metal/LP/CD1/01. Papercut.mp3
 /home/jere/Music/Metal/LP/CD1/02. One Step Closer.mp3
 /home/jere/Music/Metal/LP/CD1/03. With You.mp3
@@ -2111,6 +2968,50 @@
 /home/jere/Music/Metal/LP/CD6/10. Points of Authority (Demo).mp3
 /home/jere/Music/Metal/LP/CD6/11. Crawling (Demo).mp3
 /home/jere/Music/Metal/LP/CD6/12. SuperXero (By Myself Demo).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/01 - White Noise.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/02 - Jeff Walks.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/03 - Mall Blueprint.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/04 - Jeff Makes Observations.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/05 - Mal RX7 (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/06 - Barry's Story.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/07 - Changing Room Tease.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/08 - Danny In Police Car - Mal Gears Up.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/09 - Mal Gives Barry Second Chance - Mal Unloads.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/10 - Mall Carnage - Mal Stalked.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/11 - It Goes Through.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/12 - Cops Arrive.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/13 - Danny's Lucky Day.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/14 - Jeff Philosophizes To Donna.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/15 - Jeff And Donna Connect.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/16 - Jeff Trips In The Mirror.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/17 - Adele and Danny In The Backseat.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/18 - Mal vs. Helicopter.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/19 - Devil's Drop.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/20 - TV Comes To Life - Mal And Jeff.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/21 - The Last Line.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/22 - Danny Goes Home.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2014 - Mall OST/23 - Dancer (Instrumental).mp3
+/home/jere/Music/Metal/Linkin Park/Singles/32 - White noise (2014)/01 - White Noise.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (2004)/01 - Dirt Off Your Shoulder & Lying From You.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (2004)/02 - Big Pimpin' & Papercut.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (2004)/03 - Jigga What & Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (2004)/04 - Numb & Encore.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (2004)/05 - Izzo & In The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (2004)/06 - Points Of Authority & 99 Problems & One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (Clean) (2004)/01 - Dirt Off Your Shoulder & Lying From You.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (Clean) (2004)/02 - Big Pimpin' & Papercut.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (Clean) (2004)/03 - Jigga What & Faint.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (Clean) (2004)/04 - Numb & Encore.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (Clean) (2004)/05 - Izzo & In The End.mp3
+/home/jere/Music/Metal/Linkin Park/Albums/05 - Collision Course (feat. Jay-Z) (Clean) (2004)/06 - Points Of Authority & 99 Problems & One Step Closer.mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2014 - A Light That Never Comes (Remixes)/01 - A Light That Never Comes (Rick Rubin Reboot).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2014 - A Light That Never Comes (Remixes)/02 - A Light That Never Comes (Vicetone Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2014 - A Light That Never Comes (Remixes)/03 - A Light That Never Comes (Angger Dimas Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2014 - A Light That Never Comes (Remixes)/04 - A Light That Never Comes (Twoloud Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2014 - A Light That Never Comes (Remixes)/05 - A Light That Never Comes (Coone Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2014 - A Light That Never Comes (Remixes)/06 - A Light That Never Comes (Vicetone Remix Dub).mp3
+/home/jere/Music/Metal/Linkin Park/Extended Plays/2014 - A Light That Never Comes (Remixes)/07 - A Light That Never Comes (Brian Yates Remix).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/06 - One More Light Era/Darker Than The Light That Never Bleeds (Chester Forever Steve Aoki Remix).mp3
 /home/jere/Music/Jcitypop/Mariya Takeuchi/1978 - Beginning (2018, Ariola-Japan)/01. Goodbye Summer Breeze.mp3
 /home/jere/Music/Jcitypop/Mariya Takeuchi/1978 - Beginning (2018, Ariola-Japan)/02. Modotte Oide Watashi no Jikan.mp3
 /home/jere/Music/Jcitypop/Mariya Takeuchi/1978 - Beginning (2018, Ariola-Japan)/03. Natsu no Koibito.mp3
@@ -2441,6 +3342,55 @@
 /home/jere/Music/Jcitypop/Mariya Takeuchi/2019 - Turntable (Moon-Japan)/CD3 - Premium Covers/23. Comment te dire adieu (Sayonara wo Oshiete).mp3
 /home/jere/Music/Jcitypop/Mariya Takeuchi/2019 - Turntable (Moon-Japan)/CD3 - Premium Covers/24. Che vuole questa musica stasera (Glass no Heya).mp3
 /home/jere/Music/Jcitypop/Mariya Takeuchi/2019 - Turntable (Moon-Japan)/CD3 - Premium Covers/25. For Your Love.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/01 - Track 1.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/02 - Track 2.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/03 - Track 3.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/04 - Track 4.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/05 - Track 5.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/06 - Track 6.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/07 - Track 7.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/08 - Track 8.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/09 - Track 9.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/10 - Track 10.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/11 - Track 11.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/12 - Track 12.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/13 - Track 13.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/14 - Track 14.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/15 - Track 15.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/16 - Track 16.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/17 - Track 17.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/18 - Track 18.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/19 - Track 19.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/20 - Track 20.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/21 - Track 21.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/22 - Track 22.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/23 - Track 23.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/24 - Track 24.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/25 - Track 25.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/26 - Track 26.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/27 - Track 27.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2002 - Mister Hahn Fucks Up Meteora Style/28 - Track 28.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/01 - Track 1.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/02 - Track 2.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/03 - Track 3.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/04 - Track 4.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/05 - Track 5.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/06 - Track 6.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/07 - Track 7.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/08 - Track 8.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/09 - Track 9.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/10 - Track 10.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/11 - Track 11.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/12 - Track 12.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/13 - Track 13.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/14 - Track 14.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/15 - Track 15.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/16 - Track 16.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/17 - Track 17.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/18 - Track 18.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/19 - Track 19.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/20 - Track 20.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/DJ Sample Records/2000 - Tasty Gas Station Breaks From The Orient/21 - Track 21.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Tears.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Immer Sie.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Namidatsu Suzu Onkyou -Instrumental-.mp3
@@ -2453,10 +3403,12 @@
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako feat. ZIZZ - Gentou -Orgel Version-.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako feat. ZIZZ - Gentou -Instrumental Version-.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Kinka Kuji -Instrumental Version-.mp3
+/home/jere/Music/Metal/Linkin Park/LPU/2013 - Underground XIII/11 - Truth Inside a Lie [LPU Sessions 2013].mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Various Artists (feat. Itou Kanako) - NEW GAME.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Various Artists (feat. Itou Kanako) - NEW GAME (off vocal).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Ragnarok.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Soukyuu no Soleil.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/Things In My Jeep (feat. The Lonely Island).mp3
 /home/jere/Music/JRock/THE ORAL CIGARETTES - Discography/Mini Albums/[2013.08.28] - Orenji no Nukegara, Watashi ga Ikita Ai no Akashi (VBR 280 kbps)/01 mist….mp3
 /home/jere/Music/JRock/THE ORAL CIGARETTES - Discography/Mini Albums/[2013.08.28] - Orenji no Nukegara, Watashi ga Ikita Ai no Akashi (VBR 280 kbps)/02 Mr. Phantom.mp3
 /home/jere/Music/JRock/THE ORAL CIGARETTES - Discography/Mini Albums/[2013.08.28] - Orenji no Nukegara, Watashi ga Ikita Ai no Akashi (VBR 280 kbps)/03 Hyoutan-yama no Ekiin-san.mp3
@@ -2528,13 +3480,260 @@
 /home/jere/Music/JRock/THE ORAL CIGARETTES - Discography/Albums/[2018.06.13] - Kisses and Kills (320 kbps)/08 Youshi Tanreina Uso.mp3
 /home/jere/Music/JRock/THE ORAL CIGARETTES - Discography/Albums/[2018.06.13] - Kisses and Kills (320 kbps)/09 ONE'S AGAIN.mp3
 /home/jere/Music/JRock/THE ORAL CIGARETTES - Discography/Albums/[2018.06.13] - Kisses and Kills (320 kbps)/10 ReI.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/2001- Linkin Park & The Visionaries - Unreleased/01 - Unreleased (Demo).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Various Artists (feat. Itou Kanako) - evolution ~for beloved one~ Theme Song.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Various Artists (feat. Itou Kanako) - evolution ~for beloved one~ Theme Song [Off Vocal Version].mp3
+/home/jere/Music/Metal/Linkin Park/Singles/17 - Given Up (2007)/EU Radio CD/01 - Given Up (Radio Edit).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Various Artists (feat. Itou Kanako) - RE BRIDGE ~Return to oneself~.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Various Artists (feat. Itou Kanako) - RE BRIDGE ~Return to oneself~ (Insturmental).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/03 - A Thousand Suns Era/Blackout (Remix by Renholder).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Kinkakuji (DJ Shimamura's D'N'B Remix).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - At Last.mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Crystalline.mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/01 - Drawbar (Remix by Lizzi Cloverman).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/02 - Until It's Gone (Remix by Simple Automaton, Cypher, Broman).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/03 - War (Remix by RostaSliwka).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/04 - All For Nothing (Remix by Shurpi).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/05 - A Line In The Sand (Remix by DirtyBlup, Lizzi Cloverman).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/06 - The Summoning (Remix by minuteforce).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/07 - Smokescreen.mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/08 - Guilty All The Same (Remix by MKH).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/09 - All For Nothing (Remix by zwieR.Z.).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/10 - Final Masquerade (Remix by Lizzi Cloverman, minuteforce).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/11 - Theories.mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/12 - Wastelands (Remix by Cypher).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/13 - Rebellion (Remix by minuteforce, Simple Automaton, Shurpi, Cypher).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/14 - Keys To The Kingdom (Remix by Confetti Parade, MKH).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/15 - A Line In The Sand (Remix by minuteforce, Cypher, Broman, Decay, wEEKnIGHT pSYCHOPATH).mp3
+/home/jere/Music/Metal/Linkin Park/Remixes/05 - The Hunting Party Era/2015 - VISCERA (LPU Edition)/16- Mark The Graves (Remix by Xefuzion).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/01.  Maybellene I Hofteholder.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/02. The Everlasting.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/03. For Evigt.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/04. Evelyn.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/05. Seal The Deal.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/06. The Garden`s Tale.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/07. Guitar Gangsters & Cadillac Blood.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/08. Enter Sandman.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/09. A Warrior`s Call.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/10. Black Rose.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/11. Lonesome Rider.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/12. Pool Of The Booze, Booze, Booza.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD2/13. Still Counting.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/01. Always.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/02. Something Else.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/03. The Quest.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/04. Everything Is Fine.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/05. Caroline.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/06. When Words Taste of Lies.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/07. Where To.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/08. Until The Light Came.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/09. Misery - Company.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2002 - Demo/10. Ghosts At War.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2003 - Beat The Meat/01. Pool of Booze.MP3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2003 - Beat The Meat/02. Boa.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2003 - Beat The Meat/03. Soulweeper.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2003 - Beat The Meat/04. Another Day.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2003 - Beat The Meat/05. Danny & Lucy.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2003 - Beat The Meat/06. Alienized.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2004 - I Only Wanna Be With You (Single)/01. I Only Wanna Be With You.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2004 - I Only Wanna Be With You (Single)/02. Soulweeper.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/01. Caroline Leaving.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/02. Another Day, Another Way.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/03. Something Else Or....mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/04. Rebel Monster.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/05. Pool Of Booze, Booze, Booza.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/06. Always, Wu.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/07. Say Your Number.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/08. Soulweeper.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/09. Fire Song.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/10. Danny & Lucy (11 pm).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/11. Caroline #1.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/12. Alienized.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/13. I Only Wanna Be With You.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/14. Everything's Still Fine.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2005 - The Strength The Sound The Songs/15. Healing Subconsciously.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/01. The Human Instrument.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/02. Mr. & Mrs. Ness.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/03. The Gardens Tale.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/04. Devil Or The Blue Cat's Song.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/05. Sad Mans Tongue.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/06. River Queen.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/07. Radio Girl.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/08. A Moment Forever.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/09. Soulweeper #2.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/10. You Or Them.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2007 - Rock The Rebel Metal The Devil/11. Boa.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2007 - Sad Man's Tongue (Single)/01. Sad Man's Tongue.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2007 - Sad Man's Tongue (Single)/02. Soulweeper #2.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2008 - Maybellene I Hofteholder (Single)/01. Maybellene I Hofteholder.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/01. Intro (End Of The Road).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/02. Guitar Gangsters & Cadillac Blood.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/03. Back To Prom.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/04. Mary Ann's Place.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/05. Hallelujah Goat.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/06. Maybellene I Hofteholder.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/07. We.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/08. Still Counting.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/09. Light A Way.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/10. Wild Rover Of Hell.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/11. I'm So Lonesome I Could Cry.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/12. A Broken Man And The Dawn.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/13. Find That Soul.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/14. Making Believe (bonus).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/15. Rebel Monster (live).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2008 - Guitar Gangsters & Cadillac Blood (Limited Edition)/16. Soulweeper 2 (live).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/01. The Mirror And The Ripper.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/02. Heaven Nor Hell.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/03. Who They Are.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/04. Fallen.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/05. A Better Believer.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/06. 7 Shots.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/07. A New Day.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/08. 16 Dollars.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/09. A Warrior's Call.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/10. Magic Zone.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/11. Evelyn.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/12. Being 1.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/13. Thanks.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/14. Rebel Angel.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/15. Pool Of Booze, Booze, Booza (LIVE).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/16. A Moment Forever (LIVE).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2010 - Beyond Hell , Above Heaven (Limited Edition)/14. Still Counting (Bonus Track).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2010 - Fallen (Single)/01. Fallen (Edit).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2010 - Fallen (Single)/02. Fallen (Album Version).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2010 - Fallen (Single)/03. A Warrior's Call (live from Tilburg).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2010 - Fallen (Single)/04. Rebel Angel.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2010 - Heaven Nor Hell (Single)/01. Heaven Nor Hell (Edit).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2010 - Heaven Nor Hell (Single)/02. Heaven Nor Hell (Album Version).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2010 - Heaven Nor Hell (Single)/03. Caroline Leaving (Live From Tilburg).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/01. Intro.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/02. The Mirror And The Ripper.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/03. Maybellene I Hofteholder.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/04. 16 Dollars.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/05. Heaven Nor Hell.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/06. Who They Are.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/07. Evelyn.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/08. Sad Mans Tongue.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/09. 7 Shots.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/10. Pool Of Booze Booze Booza-Boa.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/11. A Warriors Call.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/12. The Gardens Tale.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/13. Fallen.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/14. Thanks.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/15. The Human Instrument.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/16. Angelfuck.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/17. Still Counting.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2011 - Live From Beyond Hell - About Heaven/18. I Only Wanna Be With You.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/01. Let's Shake Some Dust.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/02. Pearl Hart.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/03. The Nameless One.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/04. Dead But Rising.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/05. Cape of Our Hero.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/06. Room 24 (Feat. King Diamond).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/07. The Hangman's Body Count.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/08. My Body.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/09. Lola Montez.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/10. Black Bart.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/11. Lonesome Rider (Feat. Sarah Blackwood).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/12. The Sinner Is You.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/13. Doc Holliday.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/14. Our Loved Ones.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/15. Rebel Angel.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD1/16. Angelfuck (Live From House of Blues LA).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD2/01. Ecotone.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD2/02. Lola Montez (Harp Version).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD2/03. 7 Shots (Live from Wacken 2012).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD2/04. Evelyn (Live from Wacken 2012).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Japan UICN-1038-9)/CD2/05. Evelyn (2010 Demo).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/01. Another Day, Another Way (Live from Rock'n'Heim 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/02. Guitar Gansters & Cadillac Blood (Live from Rock'n'Heim 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/03. The Nameless One (Live from Rock'n'Heim 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/04. Heaven Nor Hell (Live From Rock'n'Heim 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/05. 16 Dollars (Live From Rock'n'Heim 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/06. The Hangmen's Body Count (Live From Download Festival, Donnington 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/07. Dead But Rising (Live From Download Festival, Donnington 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/08. Lola Montez (Live From Roskilde Festival 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/09. Cape Of Our Hero (Live From Roskilde Festival 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/10. Doc Holiay (Live From Rock am Ring 2013).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/11. Evelyn (Live From Hellfest 2013 ).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/12. Sad Man;s Tongue (Live From Hellfest 2013 ).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2013 - Outlaw Gentlemen & Shady Ladies (Tour Edition)/13. Maybellene I Hofteholder (Live From Hellfest 2013 ).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/01. The Mirror And The Ripper.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/02. Something Else Or....mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/03. Another Day, Another Way.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/04. Mary Ann's Place.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/05. Sad Mans Tongue.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/06. Always, Wu.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/07. A New Day.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/08. 16 Dollars.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/09. Rebel Monster.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/10. Danny & Lucy (11 pm).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/11. A Moment Forever.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/12. Being 1.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/13. Thanks.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/14. Still Counting.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/15. Black Bart.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/16. Lonesome Rider (Feat. Sarah Blackwood).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Compilations/Volbeat - 2015 - Greatest Hits/17. Our Loved Ones.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/01. The Devil's Bleeding Crown.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/02. Marie Laveau.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/03. For Evigt.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/04. The Gates Of Babylon.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/05. Let It Burn.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/06. Black Rose.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/07. Rebound.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/08. Mary Jane Kelly.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/09. Goodbye Forever.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/10. Seal The Deal.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/11. Battleship Chains.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/12. You Will Know.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/13. The Loa's Crossroad.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/14. Slaytan.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/15. The Bliss.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/16. Black Rose.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2016 - Seal the Deal & Let's Boogie (Deluxe)/17. The Devil's Bleeding Crown (Live At Tusindårsskoven, Odense - 2015).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Singles, EPs, Fan Club & Promo/Volbeat - 2016 - The Devil's Bleeding Crown (Single)/01. The Devil's Bleeding Crown.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/01. The Devil's Bleeding Crown.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/02. Heaven Nor Hell.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/03. Radio Girl.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/04. Lola Montez.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/05. Let It Burn.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/06. Doc Holliday.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/07. Sad Man's Tongue.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/08. 16 Dollars.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/09. 7 Shots.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/10. Fallen.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/11. Slaytan.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/12. Dead But Rising.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Live/Volbeat - 2018 - Let's Boogie! Live From Telia Parken/CD1/13. Goodbye Forever.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/08. Cheapside Sloggers.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/07. Maybe I Believe (Demo).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/08. Leviathan (Demo).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/04. Last Day Under The Sun (Demo).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/05. Rewind The Exit (Demo).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/06. When We Were Kids (Demo).mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/02. Immortal But Destructible.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/07. Cloud 9.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/02. Pelvis On Fire.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/03. Rewind The Exit.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/06. Sorry Sack Of Bones.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/10. Parasite.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/11. Leviathan.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/13. The Everlasting.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/01. Last Day Under The Sun.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/09. Maybe I Believe.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/01. Under The Influence.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/12. The Awakening Of Bonnie Parker.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/05. When We Were Kids.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/14. 7-24.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD1/04. Die To Live.mp3
+/home/jere/Music/Metal/Volbeat - Discography/Albums/Volbeat - 2019 - Rewind, Replay, Rebound (Deluxe Edition)/CD2/03. Die To Live.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1997 - Xero/01 - Rhinestone.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1997 - Xero/02 - Reading My Eyes.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1997 - Xero/03 - Fuse.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1997 - Xero/04 - Stick N Move.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1998 - Xero's tracks from Rapology/Rapology 12/Xero - Closing.mp3
+/home/jere/Music/Metal/Linkin Park/Unreleased, Demos, & Other/1998 - Xero's tracks from Rapology/Rapology 14/Xero - Fiends (feat. 007).mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako feat. ZIZZ - Ten i yuukyuu ~An Eternity of Providence~ [Instrument version].mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/Tracks from OST's & Compilations 192-320kbps/Itou Kanako - Miracles may [instrumental].mp3
 /home/jere/Music/Jcitypop/Itou_Kanako/2004.02.27 - Puzzle 320kbps/01 - Puzzle.mp3

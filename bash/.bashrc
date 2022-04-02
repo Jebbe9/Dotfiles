@@ -26,3 +26,5 @@ MPD_HOST="/home/jere/.config/mpd/socket"
 
 #Svdir
 SVDIR="/home/jere/.config/services"
+
+BROWSER="qutebrowser"
