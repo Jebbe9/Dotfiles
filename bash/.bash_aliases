@@ -37,3 +37,7 @@ alias youaudio='youtube-dl -x --extract-audio'
 
 #viini
 alias viini='WINEPREFIX=/home/jere/Documents/Torkku/Viini'
+
+#rsync
+alias websync='rsync -vrP ~/.local/www/Land/ root@jeretikkanen.xyz:/var/www/Land/'
+

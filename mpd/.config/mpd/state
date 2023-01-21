@@ -1,8 +1,6 @@
 sw_volume: 100
 audio_device_state:1:pulse
-state: pause
-current: 25
-time: 156.951000
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -11,81 +9,4 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/03. All These Things I Hate (Revolve Around Me).mp3
-1:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/01. Tears Don't Fall.mp3
-2:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/02. Your Betrayal.mp3
-3:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/03. All These Things I Hate (Revolve Around Me).mp3
-4:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/04. Hearts Burst into Fire.mp3
-5:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/05. Letting You Go.mp3
-6:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/20. No Way Out.mp3
-7:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/21. Leap Of Faith.mp3
-8:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/01. Tears Don't Fall.mp3
-9:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/02. Your Betrayal.mp3
-10:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/06. You Want a Battle_ (Here's a War).mp3
-11:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/07. Waking the Demon.mp3
-12:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/08. Bittersweet Memories.mp3
-13:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/10. Scream Aim Fire.mp3
-14:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/11. 4 Words (To Choke Upon).mp3
-15:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/12. Fever.mp3
-16:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/13. Over It.mp3
-17:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/14. Alone.mp3
-18:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/15. Tears Don't Fall (Part 2).mp3
-19:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/16. Don't Need You.mp3
-20:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/17. Hit The Floor.mp3
-21:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/18. Radioactive.mp3
-22:Metal/BFMVT/Bullet For My Valentine - Essentials (2020) Mp3 320kbps [PMEDIA] ??/19. A Place Where You Belong.mp3
-23:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/01. Doki Doki ☆ Morning.mp3
-24:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/03. Ijime, Dame, Zettai.mp3
-25:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/04. Megitsune.mp3
-26:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/05. Gimme Chocolate!!.mp3
-27:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/06. Road of Resistance.mp3
-28:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/07. KARATE.mp3
-29:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/08. THE ONE.mp3
-30:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/09. Distortion.mp3
-31:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/10. PA PA YA!!.mp3
-32:Metal/Baby Metal/BABYMETAL - 10 BABYMETAL YEARS (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Headbangeeeeerrrrr!!!!!.mp3
-33:Jcitypop/Mariya Takeuchi/1980 - Love Songs (1997, RCA-Japan)/10. Fushigi na Peach Pie.mp3
-34:Jcitypop/Mariya Takeuchi/1980 - Love Songs (1997, RCA-Japan)/02. Sayonara no Yoake.mp3
-35:Jcitypop/Mariya Takeuchi/1980 - Love Songs (1997, RCA-Japan)/04. Zouge Kaigan.mp3
-36:Jcitypop/Mariya Takeuchi/1984 - Variety (2014, Moon-Japan)/09. Mizu to Anata to Taiyo to.mp3
-37:Jcitypop/Mariya Takeuchi/1984 - Variety (2014, Moon-Japan)/11. Shetland ni Hoho wo Uzumete.mp3
-38:Jcitypop/Mariya Takeuchi/1984 - Variety (2014, Moon-Japan)/08. Mersey Beat de Utawasete.mp3
-39:Jcitypop/Mariya Takeuchi/1984 - Variety (2014, Moon-Japan)/06. Night at the Amphitheater.mp3
-40:Jcitypop/Indigo La End/Albums & EPs/(2013.02.06) Yoru Ni Mahou Wo Kakerarete/04-鞠の空想.mp3
-41:Jcitypop/Indigo La End/Albums & EPs/(2013.02.06) Yoru Ni Mahou Wo Kakerarete/05-彼女の相談.mp3
-42:Jcitypop/Indigo La End/Albums & EPs/(2013.02.06) Yoru Ni Mahou Wo Kakerarete/06-スプーンで乾杯.mp3
-43:Jcitypop/Indigo La End/Albums & EPs/(2013.02.06) Yoru Ni Mahou Wo Kakerarete/07-抱きしめて.mp3
-44:Jcitypop/Indigo La End/Albums & EPs/(2013.02.06) Yoru Ni Mahou Wo Kakerarete/08-マリの回想.mp3
-45:Jcitypop/Indigo La End/Albums & EPs/(2013.02.06) Yoru Ni Mahou Wo Kakerarete/09-スウェル.mp3
-46:Jcitypop/Indigo La End/Albums & EPs/(2013.02.06) Yoru Ni Mahou Wo Kakerarete/11-X Day.mp3
-47:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/05-鐘泣く命.mp3
-48:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/06-知らない血.mp3
-49:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/08-End Roll II.mp3
-50:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/09-プレイバック.mp3
-51:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/10-天使にキスを.mp3
-52:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/11-エーテル.mp3
-53:Jcitypop/Indigo La End/Albums & EPs/(2018.07.18) Pulsate/05-星になった心臓.mp3
-54:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/04-End Roll I.mp3
-55:Jcitypop/Indigo La End/Albums & EPs/(2017.02.12) Crying End Roll/02-見せかけのラブソング.mp3
-56:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Albums/[1984.04.21] I WON'T BREAK YOUR HEART/03 - Passion Is.mp3
-57:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Albums/[1986.07.21] Wagamama (わがまま)/06 - 道がめざめる時.mp3
-58:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Albums/[1986.07.21] Wagamama (わがまま)/10 - 好きにならずにいられない（シングル・バージョン）＜以下、ボーナス・トラック＞.mp3
-59:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Albums/[1986.07.21] Wagamama (わがまま)/11 - 春乙女.mp3
-60:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Albums/[1986.07.21] Wagamama (わがまま)/12 - 泣きながら目覚めて(シングル・バージョン).mp3
-61:Happy Hardcore/S3rl/R4V3 Boy.mp3
-62:Happy Hardcore/S3rl/Music is my saviour.mp3
-63:Happy Hardcore/S3rl/Self Titled.mp3
-64:Happy Hardcore/S3rl/It Went.mp3
-65:Happy Hardcore/S3rl/Friendzoned.mp3
-66:Happy Hardcore/S3rl/Forbidden.mp3
-67:Happy Hardcore/S3rl/Chillcore.mp3
-68:Happy Hardcore/S3rl/All That I Need.mp3
-69:Happy Hardcore/S3rl/Youre My Superhero.mp3
-70:Happy Hardcore/S3rl/Where Did You Go.mp3
-71:Happy Hardcore/S3rl/Well, That Was Awkward.mp3
-72:Happy Hardcore/S3rl/Starlight Starbright.mp3
-73:Metal/Limp Bizkit/Limp Bizkit - Chocolate Starfish And The Hot Dog Flavored Water/Limp Bizkit - Chocolate Starfish And The Hot Dog Flavored Water - 07 - Livin' It Up.mp3
-74:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Compilations/[1884] ダル・セーニョ～リミックス・ベスト/01 - 二重唱-デュエット-(ダル・セーニョ・リミックス・バージョン).mp3
-75:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Compilations/[1884] ダル・セーニョ～リミックス・ベスト/03 - センチメンタル (ダル・セーニョ・リミックス・バージョン).mp3
-76:Jcitypop/Hiromi Iwasaki 岩崎宏美 Collection/Compilations/[1884] ダル・セーニョ～リミックス・ベスト/04 - ファンタジー (ダル・セーニョ・リミックス・バージョン).mp3
 playlist_end

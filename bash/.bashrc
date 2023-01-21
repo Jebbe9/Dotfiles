@@ -24,7 +24,6 @@ PS1=" \[\033[1;96m\]\w \[\033[36m\]\[\033[1;37m\]>\[\033[0;37m\] "
 #Mpd host
 MPD_HOST="/home/jere/.config/mpd/socket"
 
-#Svdir
-SVDIR="/home/jere/.config/services"
+#Selain muuttuja, joka ai jostain syystä toimi :p
+BROWSER="firefox"
 
-BROWSER="qutebrowser"
