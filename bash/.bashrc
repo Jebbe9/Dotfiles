@@ -12,6 +12,8 @@ fi
 #bin path
 export PATH="$PATH:$HOME/.local/bin"
 export PATH="$PATH:$HOME/.local/bin/statusbar"
+export PATH="$PATH:usr/lib/jvm/default-jdk/bin"
+export PATH="$PATH:usr/lib/jvm/default-jre/bin"
 
 set -o vi
 
@@ -27,3 +29,4 @@ MPD_HOST="/home/jere/.config/mpd/socket"
 #Selain muuttuja, joka ai jostain syystä toimi :p
 BROWSER="firefox"
 
+set -o vi

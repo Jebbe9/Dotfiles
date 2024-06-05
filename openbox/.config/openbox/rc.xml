@@ -253,9 +253,6 @@
         <to>5</to>
       </action>
     </keybind>
-    <keybind key="Home">
-      <action name="ToggleShowDesktop"/>
-    </keybind>
     <!-- Keybindings for windows -->
     <keybind key="A-q">
       <action name="Close"/>
@@ -385,6 +382,11 @@
         <command>rofi -show drun</command>
       </action>
     </keybind>
+    <keybind key="A-Home">
+      <action name="Execute">
+        <command>qbittorrent</command>
+      </action>
+    </keybind>
     <keybind key="A-S-1">
       <action name="Execute">
         <command>wmctrl -r :ACTIVE: -t 0</command>
@@ -407,7 +409,7 @@
     </keybind>
     <keybind key="A-S-5">
       <action name="Execute">
-        <command>wmctrl -r :ACTIVE: -t 3</command>
+        <command>wmctrl -r :ACTIVE: -t 4</command>
       </action>
     </keybind>
     <keybind key="Print">
@@ -858,8 +860,8 @@
     </application>
 
     <application class="net-runelite-launcher-Launcher">
-      <decor>yes</decor>
-      <maximized>no</maximized>
+      <decor>no</decor>
+      <maximized>yes</maximized>
     </application>
 
     <application class="Firefox">

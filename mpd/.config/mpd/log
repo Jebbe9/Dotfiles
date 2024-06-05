@@ -15395,3 +15395,10 @@ Dec 16 16:40 : update: added Radiohead Albums [FLAC]/2016 - A Moon Shaped Pool/0
 Dec 16 16:40 : update: added Radiohead Albums [FLAC]/2016 - A Moon Shaped Pool/07. Identikit.flac
 Dec 16 16:40 : update: added Radiohead Albums [FLAC]/2016 - A Moon Shaped Pool/10. Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief.flac
 Dec 16 16:40 : update: added Radiohead Albums [FLAC]/2016 - A Moon Shaped Pool/06. Glass Eyes.flac
+Dec 11 21:56 : exception: Failed to access /home/jere/Music: No such file or directory
+Dec 11 21:56 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 11 21:58 : exception: Bad song index
+Dec 11 21:58 : exception: Bad song index
+Dec 11 21:59 : exception: Bad song index
+Dec 11 21:59 : exception: Bad song index
+Dec 11 21:59 : exception: Bad song index

@@ -36,8 +36,15 @@ alias sudo='sudo '
 alias youaudio='youtube-dl -x --extract-audio'
 
 #viini
-alias viini='WINEPREFIX=/home/jere/Documents/Torkku/Viini'
+alias viini='WINEPREFIX=/home/jere/Documents/Viina'
 
 #rsync
 alias websync='rsync -vrP ~/.local/www/Land/ root@jeretikkanen.xyz:/var/www/Land/'
 
+#xbps
+alias xins='xbps-install'
+alias xrem='xbps-remove'
+alias xque='xbps-query'
+
+#flatpak steam
+alias flattisteami='flatpak run com.valvesoftware.Steam'

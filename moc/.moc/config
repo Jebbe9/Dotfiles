@@ -1,4 +1,4 @@
-MusicDir = /home/jere/Music
+MusicDir = /mnt/HDD/Musa
 StartInMusicDir = Yes
 Theme = darkdot_theme
 Keymap = keymap

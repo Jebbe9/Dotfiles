@@ -1,3 +1,8 @@
+q
+load /mnt/HDD/Musa/
+delete
+add /mnt/HDD/Musa/
+q!
 clear
 pl-create kk
 pl-create Bullet For My Valentine
@@ -26,8 +31,6 @@ bind common F1 help
 bind -f common p player-pause
 bind -f common , vol -10%
 bind -f common . vol +10%
-q
-q!
 bind -f common l player-play
 bind -f common space player-pause
 set color_win_bg=default

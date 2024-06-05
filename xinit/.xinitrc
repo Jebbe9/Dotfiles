@@ -30,5 +30,6 @@ fi
 
 
 # start some nice programs
-
-exec dwm
+#
+pipewire &
+exec startplasma-x11
