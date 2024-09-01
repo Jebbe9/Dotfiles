@@ -1,26 +1,28 @@
 #EXTM3U
-#MOCSERIAL: 2816
+#MOCSERIAL: 768
 #EXTINF:249,/mnt/HDD/Musa/Etc/Kriso - Työttömän arki-uOaEYqCiy58
 /mnt/HDD/Musa/Etc/Kriso - Työttömän arki-uOaEYqCiy58.m4a
-#EXTINF:309,1 Cannibal Corpse - Shredded Humans (Eaten Back To Life)
+#EXTINF:309,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/01. Shredded Humans
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/01. Shredded Humans.mp3
-#EXTINF:269,2 Cannibal Corpse - Edible Autopsy (Eaten Back To Life)
+#EXTINF:269,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/02. Edible Autopsy
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/02. Edible Autopsy.mp3
-#EXTINF:106,3 Cannibal Corpse - Put Them To Death (Eaten Back To Life)
+#EXTINF:106,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/03. Put Them To Death
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/03. Put Them To Death.mp3
-#EXTINF:267,4 Cannibal Corpse - Mangled (Eaten Back To Life)
+#EXTINF:267,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/04. Mangled
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/04. Mangled.mp3
-#EXTINF:151,5 Cannibal Corpse - Scattered Remains, Splattered Brains (Eaten Back To Life)
+#EXTINF:151,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/05. Scattered Remains, Splattered Brains
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/05. Scattered Remains, Splattered Brains.mp3
-#EXTINF:197,6 Cannibal Corpse - Born In A Casket (Eaten Back To Life)
+#EXTINF:197,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/06. Born In A Casket
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/06. Born In A Casket.mp3
-#EXTINF:143,7 Cannibal Corpse - Rotting Head (Eaten Back To Life)
+#EXTINF:143,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/07. Rotting Head
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/07. Rotting Head.mp3
-#EXTINF:166,8 Cannibal Corpse - The Undead Will Feast (Eaten Back To Life)
+#EXTINF:166,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/08. The Undead Will Feast
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/08. The Undead Will Feast.mp3
-#EXTINF:109,9 Cannibal Corpse - Bloody Chunks (Eaten Back To Life)
+#EXTINF:109,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/09. Bloody Chunks
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/09. Bloody Chunks.mp3
-#EXTINF:125,10 Cannibal Corpse - A Skull Full Of Maggots (Eaten Back To Life)
+#EXTINF:125,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/10. A Skull Full Of Maggots
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/10. A Skull Full Of Maggots.mp3
-#EXTINF:312,11 Cannibal Corpse - Buried In The Backyard (Eaten Back To Life)
+#EXTINF:312,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/11. Buried In The Backyard
 /mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/11. Buried In The Backyard.mp3
+#EXTINF:-1,/mnt/HDD/Musa/Etc/Can’t Bring Me Down (Original Mix)-73DP9-kK6pU
+/mnt/HDD/Musa/Etc/Can’t Bring Me Down (Original Mix)-73DP9-kK6pU.mp3

@@ -1,6 +1,6 @@
 MusicDir = /mnt/HDD/Musa
 StartInMusicDir = Yes
-Theme = darkdot_theme
+Theme = alldefault
 Keymap = keymap
 Layout1 = directory(0,0,100%,100%)
 HideFileExtension = yes

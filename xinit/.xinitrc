@@ -31,5 +31,7 @@ fi
 
 # start some nice programs
 #
-pipewire &
-exec startplasma-x11
+
+#exec openbox-session
+#exec dbus-launch --exit-with-session startplasma-x11
+exec dwm

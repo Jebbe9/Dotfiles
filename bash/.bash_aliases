@@ -38,6 +38,12 @@ alias youaudio='youtube-dl -x --extract-audio'
 #viini
 alias viini='WINEPREFIX=/home/jere/Documents/Viina'
 
+#osrs
+alias osrsviini='WINEPREFIX=/home/jere/Documents/Osrsviina'
+
+#srb2kart
+alias kartviini='WINEPREFIX=/home/jere/Documents/srb2k/Bottle'
+
 #rsync
 alias websync='rsync -vrP ~/.local/www/Land/ root@jeretikkanen.xyz:/var/www/Land/'
 
