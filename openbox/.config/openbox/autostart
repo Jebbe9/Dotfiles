@@ -1,4 +1,4 @@
 picom -bf &
 tint2 &
-feh --bg-scale /home/jere/Pictures/Wallpapers/wallhaven-gentoo.png & 
+feh --bg-scale /home/jere/Pictures/Wallpapers/wallhaven-ranta.png & 
 xrandr --output DisplayPort-1 --mode 1920x1080 --rate 144 &

@@ -5,15 +5,15 @@
 	    <item label="Terminal"> <action name="Execute">
 		<execute>st</execute>
             </action> </item>
-	    <item label="Web browser"> <action name="Execute">
+	    <item label="Firefox"> <action name="Execute">
 		<execute>firefox</execute>
             </action> </item>
+	    <item label="Newsboat"> <action name="Execute">
+		<execute>st -e newsboat</execute>
+	    </action> </item>
 	    <separator/>
 	    <item label="OSRS"> <action name="Execute">
 		<execute>osrs.sh</execute>
-	    </action </item>
-	    <item label="SRB2K"> <action name="Execute">
-		<execute>srb2k.sh</execute>
 	    </action </item>
 	    <item label="Steam"> <action name="Execute">
 		<execute>steam</execute>

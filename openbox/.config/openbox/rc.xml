@@ -389,7 +389,7 @@
     </keybind>
     <keybind key="Print">
       <action name="Execute">
-        <command>flameshot gui</command>
+        <command>screenshot.sh</command>
       </action>
     </keybind>
   </keyboard>

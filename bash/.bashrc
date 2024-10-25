@@ -25,3 +25,7 @@ MPD_HOST="/home/jere/.config/mpd/socket"
 BROWSER="firefox"
 
 set -o vi
+
+#Clear screen bindi (ctrl + l)
+bind -m vi-command 'Control-l: clear-screen'
+bind -m vi-insert 'Control-l: clear-screen'

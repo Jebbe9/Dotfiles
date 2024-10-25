@@ -35,8 +35,11 @@ alias sudo='sudo '
 #Youtube-dl
 alias youaudio='youtube-dl -x --extract-audio'
 
-#viini
+#viini main
 alias viini='WINEPREFIX=/home/jere/Documents/Viina'
+
+#viini touhou
+alias touhouviini='WINEPREFIX=/home/jere/Documents/Touhou'
 
 #osrs
 alias osrsviini='WINEPREFIX=/home/jere/Documents/Osrsviina'

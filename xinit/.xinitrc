@@ -33,5 +33,4 @@ fi
 #
 
 #exec openbox-session
-#exec dbus-launch --exit-with-session startplasma-x11
 exec dwm
