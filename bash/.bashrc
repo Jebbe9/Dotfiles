@@ -10,7 +10,10 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 #bin path
-export PATH="$PATH:$HOME/.local/bin"
+export PATH="$PATH:$HOME/Git/scriptit/dmenu"
+export PATH="$PATH:$HOME/Git/scriptit/etc"
+export PATH="$PATH:$HOME/Git/scriptit/statusbar"
+export PATH="$PATH:$HOME/.local/bin/personal-scripts"
 
 #Default bash prompt
 PS1="[\u@\h \W]\$ "
