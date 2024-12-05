@@ -13,13 +13,13 @@
 	    </action> </item>
 	    <separator/>
 	    <item label="OSRS"> <action name="Execute">
-		<execute>osrs.sh</execute>
+		<execute>flatpak run com.jagex.Launcher</execute>
 	    </action </item>
 	    <item label="Steam"> <action name="Execute">
 		<execute>steam</execute>
             </action> </item>
 	    <item label="Discord"> <action name="Execute">
-		<execute>discord</execute>
+		<execute>Discord</execute>
 	    </action> </item>
 	    <item label="Lutris"> <action name="Execute">
 		<execute>lutris</execute>

@@ -32,5 +32,5 @@ fi
 # start some nice programs
 #
 
-exec openbox-session
-#exec dwm
+#exec openbox-session
+exec dwm

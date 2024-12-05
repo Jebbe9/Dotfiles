@@ -47,9 +47,6 @@ alias osrsviini='WINEPREFIX=/home/jere/Documents/Osrsviina'
 #srb2kart
 alias kartviini='WINEPREFIX=/home/jere/Documents/srb2k/Bottle'
 
-#rsync
-alias websync='rsync -vrP ~/.local/www/Land/ root@jeretikkanen.xyz:/var/www/Land/'
-
 #xbps
 alias xins='xbps-install'
 alias xrem='xbps-remove'

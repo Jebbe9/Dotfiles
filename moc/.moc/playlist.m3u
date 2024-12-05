@@ -1,28 +1,46 @@
 #EXTM3U
-#MOCSERIAL: 768
-#EXTINF:249,/mnt/HDD/Musa/Etc/Kriso - Työttömän arki-uOaEYqCiy58
-/mnt/HDD/Musa/Etc/Kriso - Työttömän arki-uOaEYqCiy58.m4a
-#EXTINF:309,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/01. Shredded Humans
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/01. Shredded Humans.mp3
-#EXTINF:269,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/02. Edible Autopsy
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/02. Edible Autopsy.mp3
-#EXTINF:106,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/03. Put Them To Death
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/03. Put Them To Death.mp3
-#EXTINF:267,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/04. Mangled
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/04. Mangled.mp3
-#EXTINF:151,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/05. Scattered Remains, Splattered Brains
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/05. Scattered Remains, Splattered Brains.mp3
-#EXTINF:197,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/06. Born In A Casket
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/06. Born In A Casket.mp3
-#EXTINF:143,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/07. Rotting Head
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/07. Rotting Head.mp3
-#EXTINF:166,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/08. The Undead Will Feast
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/08. The Undead Will Feast.mp3
-#EXTINF:109,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/09. Bloody Chunks
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/09. Bloody Chunks.mp3
-#EXTINF:125,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/10. A Skull Full Of Maggots
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/10. A Skull Full Of Maggots.mp3
-#EXTINF:312,/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/11. Buried In The Backyard
-/mnt/HDD/Musa/Cannibal Corpse/01 - Studio Albums/1990 - Eaten Back To Life/11. Buried In The Backyard.mp3
-#EXTINF:-1,/mnt/HDD/Musa/Etc/Can’t Bring Me Down (Original Mix)-73DP9-kK6pU
-/mnt/HDD/Musa/Etc/Can’t Bring Me Down (Original Mix)-73DP9-kK6pU.mp3
+#MOCSERIAL: 2048
+#EXTINF:263,1 The Peggies - 君のせい (Kimi no Sei) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/01 - 君のせい (Kimi no Sei).mp3
+#EXTINF:240,2 The Peggies - する (Suru) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/02 - する (Suru).mp3
+#EXTINF:247,3 The Peggies - マイクロフォン (Microphone) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/03 - マイクロフォン (Microphone).mp3
+#EXTINF:245,4 The Peggies - ドリーミージャーニー (Dreamy Journey) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/04 - ドリーミージャーニー (Dreamy Journey).mp3
+#EXTINF:223,5 The Peggies - はちみつ (Hachimitsu) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/05 - はちみつ (Hachimitsu).mp3
+#EXTINF:156,6 The Peggies - そうだ、僕らは (Sōda, Bokurawa) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/06 - そうだ、僕らは (Sōda, Bokurawa).mp3
+#EXTINF:264,7 The Peggies - かみさま (Kami-sama) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/07 - かみさま (Kami-sama).mp3
+#EXTINF:237,8 The Peggies - BABY! (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/08 - BABY!.mp3
+#EXTINF:196,9 The Peggies - Fortune (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/09 - Fortune.mp3
+#EXTINF:217,10 The Peggies - サマラブ超特急 (Samarabu Chō Tokkyū) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/10 - サマラブ超特急 (Samarabu Chō Tokkyū).mp3
+#EXTINF:269,11 The Peggies - LOVE TRIP (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/11 - LOVE TRIP.mp3
+#EXTINF:283,12 The Peggies - 明日 (Ashita) (Hell Like Heaven)
+/mnt/HDD/Musa/The Peggies/(2019) Hell like Heaven/12 - 明日 (Ashita).mp3
+#EXTINF:227,1 The Peggies - センチメートル (Centimeter) (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/01 - センチメートル (Centimeter).mp3
+#EXTINF:244,2 The Peggies - ドラマチック (Dramatic) (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/02 - ドラマチック (Dramatic).mp3
+#EXTINF:278,3 The Peggies - スタンドバイミー (Stand By Me) (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/03 - スタンドバイミー (Stand By Me).mp3
+#EXTINF:241,4 The Peggies - Hello Sugar (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/04 - Hello Sugar.mp3
+#EXTINF:298,5 The Peggies - ドア (Door) (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/05 - ドア (Door).mp3
+#EXTINF:352,6 The Peggies - Contrast (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/06 - Contrast.mp3
+#EXTINF:227,7 The Peggies - 足跡 (Ashiato) (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/07 - 足跡 (Ashiato).mp3
+#EXTINF:284,8 The Peggies - アネモネ (Anemone) (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/08 - アネモネ (Anemone).mp3
+#EXTINF:286,9 The Peggies - スプートニク(2021) (Sputnik (2021)) (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/09 - スプートニク(2021) (Sputnik (2021)).mp3
+#EXTINF:197,10 The Peggies - TAIKIKEN (The GARDEN)
+/mnt/HDD/Musa/The Peggies/(2021) The GARDEN/10 - TAIKIKEN.mp3
